@@ -46,7 +46,7 @@ Vis,1990,Methods for surface interrogation,0,3,2.31,conference paper,http://dx.d
 Vis,1990,FAST: a multi-processed environment for visualization of computational fluid dynamics,0,6,4.62,conference paper,http://dx.doi.org/10.1109/VISUAL.1990.146360,76,1.880813592,0.590212137
 Vis,1990,A three-dimensional/stereoscopic display and model control system for Great Lakes forecasts,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.1990.146382,79,1.897627091,0.595488327
 Vis,1990,Moving iconic objects in scientific visualization,0,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.1990.146373,96,1.982271233,0.622050237
-Vis,1990,Surface representations of two- and three-dimensional fluid flow topology,BP,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1990.146359,107,2.029383778,3
+Vis,1990,Surface representations of two- and three-dimensional fluid flow topology,BP,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1990.146359,107,2.029383778,0.636834474
 Vis,1990,Interactive investigation of fluid mechanics data sets,0,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.1990.146416,126,2.100370545,0.659110606
 Vis,1990,Design of an end-user data visualization system,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.1990.146397,127,2.103803721,0.66018796
 Vis,1990,A graphical interface for robotic remediation of underground storage tanks,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1990.146419,129,2.11058971,0.66231745
@@ -95,7 +95,7 @@ Vis,1991,Achieving direct volume visualization with interactive semantic region 
 Vis,1991,NetV: an experimental network-based volume visualization system,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1991.175807,52,1.716003344,0.538493556
 Vis,1991,Volume rendering of flow-visualization point data,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1991.175772,54,1.73239376,0.543636981
 Vis,1991,Tree-maps: a space-filling approach to the visualization of hierarchical information structures,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1991.175815,68,1.832508913,0.575053799
-Vis,1991,The virtual windtunnel: An environment for the exploration of three-dimensional unsteady flows,BP,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1991.175771,71,1.851258349,3
+Vis,1991,The virtual windtunnel: An environment for the exploration of three-dimensional unsteady flows,BP,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1991.175771,71,1.851258349,0.5809375
 Vis,1991,Shadowed hedgehogs: a technique for visualizing 2D slices of 3D vector fields,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1991.175792,83,1.919078092,0.602219798
 Vis,1991,Visualization in computational fluid dynamics: a case study,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1991.175837,107,2.029383778,0.636834474
 Vis,1991,Image handling in a multi-vendor environment,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1991.175814,117,2.068185862,0.649010833
@@ -142,7 +142,7 @@ Vis,1992,Anatomical atlases based on volume visualization,0,7,5.39,conference pa
 Vis,1992,The state of the art of visual languages for visualization,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1992.235207,64,1.806179974,0.566791598
 Vis,1992,Volume rendering on a distributed memory parallel computer,0,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.1992.235221,64,1.806179974,0.566791598
 Vis,1992,Volume warping,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1992.235194,64,1.806179974,0.566791598
-Vis,1992,Visualization of second order tensor fields and matrix data,TT;BP,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1992.235193,66,1.819543936,3
+Vis,1992,Visualization of second order tensor fields and matrix data,TT;BP,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1992.235193,66,1.819543936,0.5709853
 Vis,1992,VISAGE: an object-oriented scientific visualization system,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.1992.235205,68,1.832508913,0.575053799
 Vis,1992,Generalized focal surfaces: a new method for surface interrogation,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1992.235224,69,1.838849091,0.57704339
 Vis,1992,Visualizing code profiling line oriented statistics,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1992.235206,70,1.84509804,0.579004353
@@ -165,7 +165,7 @@ Vis,1993,Applying observations of work activity in designing prototype data anal
 Vis,1993,Interactive visualization methods for four dimensions,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398869,4,0.602059991,0.188930533
 Vis,1993,Visualization of oil reservoirs over a large range of scales as a catalyst for multi-disciplinary integration,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398893,4,0.602059991,0.188930533
 Vis,1993,Towards a texture naming system: Identifying relevant dimensions of texture,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398872,5,0.698970004,0.219341556
-Vis,1993,Texture splats for 3D scalar and vector field visualization,TT;BP,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398877,6,0.77815125,3
+Vis,1993,Texture splats for 3D scalar and vector field visualization,TT;BP,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398877,6,0.77815125,0.244189171
 Vis,1993,The quantum Coulomb three-body problem - Visualization of simulation results and numerical methods,0,6,4.62,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398911,6,0.77815125,0.244189171
 Vis,1993,3D simulation of delivery,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398903,7,0.84509804,0.26519753
 Vis,1993,A climate simulation case study,0,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398900,7,0.84509804,0.26519753
@@ -173,7 +173,7 @@ Vis,1993,Fanal: A relational analysis and visualization package for high energy 
 Vis,1993,Fast analytical computation of Richard's smooth molecular surface,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398882,7,0.84509804,0.26519753
 Vis,1993,Developing modular application builders to exploit MIMD parallel,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398861,8,0.903089987,0.283395799
 Vis,1993,Implicit stream surfaces,0,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398875,9,0.954242509,0.29944781
-Vis,1993,Enhancing reality in the operating room,BCS,5,3.85,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398902,11,1.041392685,3
+Vis,1993,Enhancing reality in the operating room,BCS,5,3.85,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398902,11,1.041392685,0.326796129
 Vis,1993,MRIVIEW: An interactive computational tool for investigation of brain structure and function,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398885,12,1.079181246,0.338654437
 Vis,1993,The virtual restoration of the Visir tomb,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398904,12,1.079181246,0.338654437
 Vis,1993,"Unsteady phenomena, hypersonic flows and co-operative flow visualization in aerospace research",0,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398894,12,1.079181246,0.338654437
@@ -184,7 +184,7 @@ Vis,1993,A probe for local flow field visualization,0,2,1.54,conference paper,ht
 Vis,1993,Cloud tracing in convection-diffusion systems,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398876,20,1.301029996,0.408272089
 Vis,1993,Interactive shading for surface and volume visualization on graphics workstations,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398881,21,1.322219295,0.414921435
 Vis,1993,Tioga: A database-oriented visualization tool,0,6,4.62,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398855,22,1.342422681,0.421261396
-Vis,1993,Geometric clipping using Boolean textures,BP,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398878,23,1.361727836,3
+Vis,1993,Geometric clipping using Boolean textures,BP,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398878,23,1.361727836,0.427319485
 Vis,1993,Geometric optimization,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398868,24,1.380211242,0.433119704
 Vis,1993,Orientation maps: Techniques for visualizing rotations (A  Consumer's Guide),0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398867,25,1.397940009,0.438683112
 Vis,1993,The vision camera: An interactive tool for volume data exploration and navigation,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1993.398847,25,1.397940009,0.438683112
@@ -226,8 +226,8 @@ Vis,1994,GASP-a system for visualizing geometric algorithms,0,2,1.54,conference 
 Vis,1994,Triangulation and display of rational parametric surfaces,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346335,10,1,0.313806822
 Vis,1994,A lattice model for data display,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346304,11,1.041392685,0.326796129
 Vis,1994,Integrating spatial data display with virtual reconstruction,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346296,12,1.079181246,0.338654437
-Vis,1994,Visualization of 3D ultrasonic data,BCS,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346294,12,1.079181246,3
-Vis,1994,Visualizing flow over curvilinear grid surfaces using line integral convolution,BP,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346313,13,1.113943352,3
+Vis,1994,Visualization of 3D ultrasonic data,BCS,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346294,12,1.079181246,0.338654437
+Vis,1994,Visualizing flow over curvilinear grid surfaces using line integral convolution,BP,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346313,13,1.113943352,0.349563024
 Vis,1994,Visualizing polycrystalline orientation microstructures with spherical color maps,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346338,13,1.113943352,0.349563024
 Vis,1994,"Vortex tubes in turbulent flows: identification, representation, reconstruction",0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346327,13,1.113943352,0.349563024
 Vis,1994,UFAT-a particle tracer for time-dependent flow fields,0,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346311,15,1.176091259,0.369065461
@@ -237,13 +237,13 @@ Vis,1994,An annotation system for 3D fluid flow visualization,0,2,1.54,conferenc
 Vis,1994,Spiders: a new user interface for rotation and visualization of n-dimensional point sets,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346318,20,1.301029996,0.408272089
 Vis,1994,Virtual reality performance for virtual geometry,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346324,21,1.322219295,0.414921435
 Vis,1994,User modeling for adaptive visualization systems,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346316,22,1.342422681,0.421261396
-Vis,1994,An evaluation of reconstruction filters for volume rendering,TT,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346331,24,1.380211242,3
+Vis,1994,An evaluation of reconstruction filters for volume rendering,TT,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346331,24,1.380211242,0.433119704
 Vis,1994,Approximation of isosurface in the Marching Cube: ambiguity problem,0,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346307,24,1.380211242,0.433119704
 Vis,1994,Wavelet-based volume morphing,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346333,25,1.397940009,0.438683112
 Vis,1994,Isosurface generation by using extrema graphs,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346334,27,1.431363764,0.449171714
 Vis,1994,Restorer: a visualization technique for handling missing data,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346317,34,1.531478917,0.480588532
 Vis,1994,Integrated control of distributed volume visualization through the World-Wide-Web,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346342,38,1.579783597,0.49574687
-Vis,1994,"The topology of symmetric, second-order tensor fields",BP,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346326,39,1.591064607,3
+Vis,1994,"The topology of symmetric, second-order tensor fields",BP,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346326,39,1.591064607,0.499286928
 Vis,1994,The design and implementation of the Cortex visualization system,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346310,42,1.62324929,0.509386702
 Vis,1994,Volume rendering methods for computational fluid dynamics visualization,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346314,42,1.62324929,0.509386702
 Vis,1994,A library for visualizing combinatorial structures,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1994.346323,43,1.633468456,0.512593545
@@ -276,7 +276,7 @@ Vis,1995,Enhancing transparent skin surfaces with ridge and valley lines,0,3,2.3
 Vis,1995,Fast multiresolution surface meshing,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1995.480805,5,0.698970004,0.219341556
 Vis,1995,Recursive pattern: a technique for visualizing very large amounts of data,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1995.485140,6,0.77815125,0.244189171
 Vis,1995,Flow visualization in a hypersonic fin/ramp flow,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1995.485156,7,0.84509804,0.26519753
-Vis,1995,High Dimensional Brushing for Interactive Exploration of Multivariate Data,TT,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1995.485139,7,0.84509804,3
+Vis,1995,High Dimensional Brushing for Interactive Exploration of Multivariate Data,TT,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1995.485139,7,0.84509804,0.26519753
 Vis,1995,Visualization for aerodynamic design of helicopter rotor blades,0,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.1995.485150,7,0.84509804,0.26519753
 Vis,1995,A model and a system for data-parallel program visualization,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1995.480816,8,0.903089987,0.283395799
 Vis,1995,Legibility enhancement for information visualisation,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1995.480814,8,0.903089987,0.283395799
@@ -289,7 +289,7 @@ InfoVis,1995,VRMosaic: WEB access from within a virtual environment,0,2,1.54,con
 InfoVis,1995,Case study: 3D displays of Internet traffic,0,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.1995.528697,11,1.041392685,0.326796129
 Vis,1995,Sweeping simplices: a fast iso-surface extraction algorithm for unstructured grids,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1995.480806,11,1.041392685,0.326796129
 Vis,1995,Turbulent flow visualization in computational and experimental hydraulics,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1995.485158,11,1.041392685,0.326796129
-InfoVis,1995,Visualizing the non-visual: spatial analysis and interaction with information from text documents,TT,7,5.39,conference paper,http://dx.doi.org/10.1109/INFVIS.1995.528686,11,1.041392685,3
+InfoVis,1995,Visualizing the non-visual: spatial analysis and interaction with information from text documents,TT,7,5.39,conference paper,http://dx.doi.org/10.1109/INFVIS.1995.528686,11,1.041392685,0.326796129
 Vis,1995,3D computational steering with parametrized geometric objects,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1995.485143,12,1.079181246,0.338654437
 InfoVis,1995,Case study. Visualising cyberspace: information visualisation in the Harmony Internet browser,0,1,0.77,conference paper,http://dx.doi.org/10.1109/INFVIS.1995.528692,12,1.079181246,0.338654437
 InfoVis,1995,Research report. DataSpace: 3-D visualizations of large databases,0,4,3.08,conference paper,http://dx.doi.org/10.1109/INFVIS.1995.528690,12,1.079181246,0.338654437
@@ -345,7 +345,7 @@ Vis,1996,Optimizing triangle strips for fast rendering,0,3,2.31,conference paper
 Vis,1996,Anatomy-based facial tissue modeling using the finite element method,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.1996.567595,3,0.477121255,0.149723905
 Vis,1996,Dynamic view-dependent simplification for polygonal models,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1996.568126,3,0.477121255,0.149723905
 Vis,1996,Case Study: Mantle convection visualization on the Cray T3D,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1996.568144,4,0.602059991,0.188930533
-Vis,1996,Flow visualization for turbomachinery design,BCS,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1996.568137,4,0.602059991,3
+Vis,1996,Flow visualization for turbomachinery design,BCS,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1996.568137,4,0.602059991,0.188930533
 Vis,1996,A 3D Contextual Shading Method for Visualization of Diecasting Defects,0,6,4.62,conference paper,http://doi.ieeecomputersociety.org/10.1109/VISUAL.1996.568143,5,0.698970004,0.219341556
 Vis,1996,Case Study: Visual access for landscape event based temporal data,0,5,3.85,conference paper,http://dx.doi.org/10.1109/VISUAL.1996.568148,6,0.77815125,0.244189171
 Vis,1996,Mesh reduction with error control,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1996.568124,6,0.77815125,0.244189171
@@ -379,7 +379,7 @@ InfoVis,1996,Rapid prototyping of information visualizations using VANISH,0,2,1.
 Vis,1996,Raycasting vector fields,0,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.1996.567780,24,1.380211242,0.433119704
 Vis,1996,Untangling Knots by Stochastic Energy Optimization,0,3,2.31,conference paper,http://doi.ieeecomputersociety.org/10.1109/VISUAL.1996.568120,24,1.380211242,0.433119704
 Vis,1996,Complex-valued contour meshing,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1996.568103,25,1.397940009,0.438683112
-InfoVis,1996,Visage: a user interface environment for exploring information,TT,8,6.16,conference paper,http://dx.doi.org/10.1109/INFVIS.1996.559210,25,1.397940009,3
+InfoVis,1996,Visage: a user interface environment for exploring information,TT,8,6.16,conference paper,http://dx.doi.org/10.1109/INFVIS.1996.559210,25,1.397940009,0.438683112
 Vis,1996,Using visualization in the archaeological excavations of a pre-Inca temple in Peru,0,9,6.93,conference paper,http://dx.doi.org/10.1109/VISUAL.1996.568132,26,1.414973348,0.44402829
 InfoVis,1996,Visualizing the global topology of the MBone,0,4,3.08,conference paper,http://dx.doi.org/10.1109/INFVIS.1996.559226,26,1.414973348,0.44402829
 Vis,1996,Contour blending using warp-guided distance field interpolation,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1996.567812,27,1.431363764,0.449171714
@@ -409,7 +409,7 @@ InfoVis,1996,Distortion viewing techniques for 3-dimensional data,0,3,2.31,confe
 Vis,1996,Interactive visualization of ocean circulation models,0,11,8.47,conference paper,http://dx.doi.org/10.1109/VISUAL.1996.568149,135,2.130333768,0.66851327
 Vis,1996,A fast Gibbs sampler for synthesizing constrained fractals,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1996.567598,141,2.149219113,0.67443962
 Vis,1996,FEL: The Field Encapsulation Library,0,3,2.31,conference paper,http://doi.ieeecomputersociety.org/10.1109/VISUAL.1996.568115,160,2.204119983,0.691667888
-Vis,1996,Interactive visualization of 3D-vector fields using illuminated stream lines,BP,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1996.567777,184,2.264817823,3
+Vis,1996,Interactive visualization of 3D-vector fields using illuminated stream lines,BP,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1996.567777,184,2.264817823,0.710715284
 Vis,1996,Multi-frequency noise for LIC,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1996.567784,211,2.324282455,0.729375691
 InfoVis,1996,Visualizing a tennis match,0,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.1996.559229,267,2.426511261,0.761455788
 Vis,1996,Cheops: a compact explorer for complex hierarchies,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1996.567745,308,2.488550717,0.780924192
@@ -421,8 +421,8 @@ Vis,1997,Repairing CAD models,0,2,1.54,conference paper,http://dx.doi.org/10.110
 Vis,1997,The contour spectrum,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1997.663875,0,0,0
 Vis,1997,Building and traversing a surface at variable resolution,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1997.663865,2,0.301029996,0.094465266
 Vis,1997,Instructional software for visualizing optical phenomena,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.1997.663918,2,0.301029996,0.094465266
-InfoVis,1997,The structure of the information visualization design space,TT,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.1997.636792,2,0.301029996,3
-Vis,1997,Vortex identification-applications in aerodynamics: a case study,BCS,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1997.663910,3,0.477121255,3
+InfoVis,1997,The structure of the information visualization design space,TT,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.1997.636792,2,0.301029996,0.094465266
+Vis,1997,Vortex identification-applications in aerodynamics: a case study,BCS,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1997.663910,3,0.477121255,0.149723905
 Vis,1997,I/O optimal isosurface extraction,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1997.663895,4,0.602059991,0.188930533
 Vis,1997,Virtualized reality: constructing time-varying virtual worlds from real world events,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1997.663893,4,0.602059991,0.188930533
 Vis,1997,A comparison of normal estimation schemes,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.1997.663848,5,0.698970004,0.219341556
@@ -445,7 +445,7 @@ Vis,1997,Extracting feature lines from 3D unstructured grids,0,2,1.54,conference
 Vis,1997,Haar wavelets over triangular domains with applications to multiresolution models for flow over a sphere,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1997.663871,15,1.176091259,0.369065461
 Vis,1997,Strategies for effectively visualizing 3D flow with volume LIC,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1997.663912,15,1.176091259,0.369065461
 Vis,1997,A topology modifying progressive decimation algorithm,0,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.1997.663883,16,1.204119983,0.377861065
-Vis,1997,An anti-aliasing technique for splatting,BP,6,4.62,conference paper,http://dx.doi.org/10.1109/VISUAL.1997.663882,16,1.204119983,3
+Vis,1997,An anti-aliasing technique for splatting,BP,6,4.62,conference paper,http://dx.doi.org/10.1109/VISUAL.1997.663882,16,1.204119983,0.377861065
 InfoVis,1997,Coordinating declarative queries with a direct manipulation data exploration environment,0,3,2.31,conference paper,http://dx.doi.org/10.1109/INFVIS.1997.636788,16,1.204119983,0.377861065
 Vis,1997,Efficient subdivision of finite-element datasets into consistent tetrahedra,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1997.663885,19,1.278753601,0.401281604
 Vis,1997,ROAMing terrain: Real-time Optimally Adapting Meshes,0,6,4.62,conference paper,http://dx.doi.org/10.1109/VISUAL.1997.663860,19,1.278753601,0.401281604
@@ -509,7 +509,7 @@ InfoVis,1998,Dynamic aggregation with circular visual designs,0,1,0.77,conferenc
 Vis,1998,Interpolation of triangle hierarchies,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1998.745328,2,0.301029996,0.094465266
 Vis,1998,TOPIC ISLANDS TM - a wavelet-based text visualization system,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.1998.745302,2,0.301029996,0.094465266
 InfoVis,1998,The generalized detail in-context problem,0,1,0.77,conference paper,http://dx.doi.org/10.1109/INFVIS.1998.729558,3,0.477121255,0.149723905
-Vis,1998,Interactive ray tracing for isosurface rendering,BP,5,3.85,conference paper,http://dx.doi.org/10.1109/VISUAL.1998.745713,4,0.602059991,3
+Vis,1998,Interactive ray tracing for isosurface rendering,BP,5,3.85,conference paper,http://dx.doi.org/10.1109/VISUAL.1998.745713,4,0.602059991,0.188930533
 Vis,1998,Rear-projecting virtual data onto physical terrain: an exercise in two senses being better than one,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.1998.745341,4,0.602059991,0.188930533
 Vis,1998,Converting sets of polygons to manifold surfaces by cutting and stitching,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.1998.745327,5,0.698970004,0.219341556
 Vis,1998,Seabed visualization,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.1998.745348,5,0.698970004,0.219341556
@@ -518,7 +518,7 @@ Vis,1998,Fast and memory efficient polygonal simplification,0,2,1.54,conference 
 Vis,1998,Image-based rendering with occlusions via cubist images,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1998.745320,6,0.77815125,0.244189171
 Vis,1998,Interactive display of very large textures,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1998.745322,6,0.77815125,0.244189171
 Vis,1998,POPTEX: Interactive ocean model visualization using texture mapping hardware,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1998.745346,7,0.84509804,0.26519753
-InfoVis,1998,An operator interaction framework for visualization systems,TT,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.1998.729560,8,0.903089987,3
+InfoVis,1998,An operator interaction framework for visualization systems,TT,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.1998.729560,8,0.903089987,0.283395799
 InfoVis,1998,BiblioMapper: a cluster-based information visualization technique,0,1,0.77,conference paper,http://dx.doi.org/10.1109/INFVIS.1998.729569,8,0.903089987,0.283395799
 Vis,1998,Scientific visualization and data modeling of scattered sediment contaminant data in New York/New Jersey estuaries,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1998.745345,8,0.903089987,0.283395799
 Vis,1998,Progressive tetrahedralizations,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1998.745329,9,0.954242509,0.29944781
@@ -530,7 +530,7 @@ Vis,1998,Smooth view-dependent level-of-detail control and its application to te
 InfoVis,1998,Similarity clustering of dimensions for an enhanced visualization of multidimensional data,0,3,2.31,conference paper,http://dx.doi.org/10.1109/INFVIS.1998.729559,13,1.113943352,0.349563024
 Vis,1998,Level of detail visualization of scalar data sets on irregular surface meshes,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1998.745287,15,1.176091259,0.369065461
 Vis,1998,A unified approach for simplifying polygonal and spline models,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1998.745313,16,1.204119983,0.377861065
-Vis,1998,Production visualization for the ASCI One TeraFLOPS machine,BCS,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.1998.745343,18,1.255272505,3
+Vis,1998,Production visualization for the ASCI One TeraFLOPS machine,BCS,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.1998.745343,18,1.255272505,0.393913076
 Vis,1998,A distributed blackboard architecture for interactive data visualization,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1998.745307,19,1.278753601,0.401281604
 Vis,1998,Battlefield visualization on the responsive workbench,0,9,6.93,conference paper,http://dx.doi.org/10.1109/VISUAL.1998.745344,19,1.278753601,0.401281604
 Vis,1998,Visualization in corneal topography,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1998.745335,19,1.278753601,0.401281604
@@ -630,7 +630,7 @@ Vis,1999,Rendering on a budget: a framework for time-critical rendering,0,2,1.54
 InfoVis,1999,The automated multidimensional detective,0,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.1999.801865,19,1.278753601,0.401281604
 Vis,1999,Forward image mapping,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.1999.809872,20,1.301029996,0.408272089
 Vis,1999,Isosurface extraction in time-varying fields using a Temporal Branch-on-Need Tree (T-BON),0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1999.809879,20,1.301029996,0.408272089
-InfoVis,1999,Cluster and calendar based visualization of time series data,TT,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.1999.801851,21,1.322219295,3
+InfoVis,1999,Cluster and calendar based visualization of time series data,TT,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.1999.801851,21,1.322219295,0.414921435
 Vis,1999,Anisotropic nonlinear diffusion in flow visualization,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1999.809904,23,1.361727836,0.427319485
 Vis,1999,Spiraling Edge: fast surface reconstruction from partially organized sample points,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1999.809903,23,1.361727836,0.427319485
 Vis,1999,Tetrahedral Mesh Compression with the Cut-Border Machine,0,3,2.31,conference paper,http://doi.ieeecomputersociety.org/10.1109/VISUAL.1999.809868,24,1.380211242,0.433119704
@@ -653,7 +653,7 @@ InfoVis,1999,Domain analysis: a technique to design a user-centered visualizatio
 Vis,1999,VizCraft: a multidimensional visualization tool for aircraft configuration design,0,7,5.39,conference paper,http://dx.doi.org/10.1109/VISUAL.1999.809921,42,1.62324929,0.509386702
 Vis,1999,Visualizing Planar Vector Fields with Normal Component Using Line Integral Convolution,0,3,2.31,conference paper,http://doi.ieeecomputersociety.org/10.1109/VISUAL.1999.809895,44,1.643452676,0.515726662
 Vis,1999,Visualizing large-scale telecommunication networks and services,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.1999.809930,45,1.653212514,0.518789365
-Vis,1999,Hue-balls and lit-tensors for direct volume rendering of diffusion tensor fields,BP,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1999.809886,50,1.698970004,3
+Vis,1999,Hue-balls and lit-tensors for direct volume rendering of diffusion tensor fields,BP,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.1999.809886,50,1.698970004,0.533148378
 InfoVis,1999,Navigating hierarchies with structure-based brushes,0,3,2.31,conference paper,http://dx.doi.org/10.1109/INFVIS.1999.801858,50,1.698970004,0.533148378
 Vis,1999,LOD-sprite technique for accelerated terrain rendering,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.1999.809900,53,1.72427587,0.541089531
 Vis,1999,Time-critical Multiresolution Scene Rendering,0,2,1.54,conference paper,http://doi.ieeecomputersociety.org/10.1109/VISUAL.1999.809876,54,1.73239376,0.543636981
@@ -690,7 +690,7 @@ Vis,2000,A flow-guided streamline seeding strategy,0,3,2.31,conference paper,htt
 Vis,2000,Achieving color uniformity across multi-projector displays,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.2000.885684,6,0.77815125,0.244189171
 Vis,2000,Case study: a methodology for plume visualization with application to real-time acquisition and navigation,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.2000.885737,7,0.84509804,0.26519753
 Vis,2000,Real-time visualization of the clear-up of a former US naval base,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.2000.885743,7,0.84509804,0.26519753
-Vis,2000,Volume illustration: non-photorealistic rendering of volume models,BP,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2000.885694,7,0.84509804,3
+Vis,2000,Volume illustration: non-photorealistic rendering of volume models,BP,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2000.885694,7,0.84509804,0.26519753
 Vis,2000,Geometric compression for interactive transmission,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2000.885711,8,0.903089987,0.283395799
 Vis,2000,Immersive virtual reality for visualizing flow through an artery,0,6,4.62,conference paper,http://dx.doi.org/10.1109/VISUAL.2000.885731,8,0.903089987,0.283395799
 Vis,2000,Visualizing geodesics,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2000.885710,8,0.903089987,0.283395799
@@ -714,7 +714,7 @@ Vis,2000,Polyhedral modeling,0,2,1.54,conference paper,http://dx.doi.org/10.1109
 Vis,2000,Visualization of time dependent confocal microscopy data,0,6,4.62,conference paper,http://dx.doi.org/10.1109/VISUAL.2000.885735,16,1.204119983,0.377861065
 Vis,2000,Hardware-accelerated volume and isosurface rendering based on cell-projection,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2000.885683,17,1.230448921,0.386123266
 InfoVis,2000,Information content measures of visual displays,0,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.2000.885096,17,1.230448921,0.386123266
-InfoVis,2000,"Polaris: a system for query, analysis and visualization of multi-dimensional relational databases",TT,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.2000.885086,17,1.230448921,3
+InfoVis,2000,"Polaris: a system for query, analysis and visualization of multi-dimensional relational databases",TT,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.2000.885086,17,1.230448921,0.386123266
 Vis,2000,Texturing techniques for terrain visualization,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2000.885699,17,1.230448921,0.386123266
 Vis,2000,Basic research for coloring multichannel MRI data,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2000.885693,18,1.255272505,0.393913076
 InfoVis,2000,Density functions for visual attributes and effective partitioning in graph visualization,0,3,2.31,conference paper,http://dx.doi.org/10.1109/INFVIS.2000.885090,18,1.255272505,0.393913076
@@ -804,7 +804,7 @@ Vis,2001,A complete distance field representation,0,4,3.08,conference paper,http
 Vis,2001,"Archaeological Data Visualization in VR: Analysis of Lamp Finds at the Great Temple of Petra, a Case Study",0,4,3.08,conference paper,http://doi.ieeecomputersociety.org/10.1109/VISUAL.2001.964560,11,1.041392685,0.326796129
 InfoVis,2001,Case study: e-commerce clickstream visualization,0,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.2001.963293,11,1.041392685,0.326796129
 Vis,2001,Case study: interacting with cortical flat maps of the human brain,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2001.964553,11,1.041392685,0.326796129
-Vis,2001,Interactive volume rendering using multi-dimensional transfer functions and direct manipulation widgets,BP,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2001.964519,11,1.041392685,3
+Vis,2001,Interactive volume rendering using multi-dimensional transfer functions and direct manipulation widgets,BP,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2001.964519,11,1.041392685,0.326796129
 Vis,2001,Dynamic Shadow Removal from Front Projection Displays,0,5,3.85,conference paper,http://doi.ieeecomputersociety.org/10.1109/VISUAL.2001.964509,13,1.113943352,0.349563024
 InfoVis,2001,Visualization of state transition graphs,0,3,2.31,conference paper,http://dx.doi.org/10.1109/INFVIS.2001.963281,13,1.113943352,0.349563024
 Vis,2001,A simple algorithm for surface denoising,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2001.964500,16,1.204119983,0.377861065
@@ -897,12 +897,12 @@ Vis,2002,BM3D: motion estimation in time dependent volume data,0,2,1.54,conferen
 Vis,2002,Exploring surface characteristics with interactive Gaussian images (a case study),0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2002.1183828,11,1.041392685,0.326796129
 Vis,2002,Geometric surface smoothing via anisotropic diffusion of normals,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.2002.1183766,11,1.041392685,0.326796129
 InfoVis,2002,The illusion of perceived metric 3D structure,0,3,2.31,conference paper,http://dx.doi.org/10.1109/INFVIS.2002.1173147,11,1.041392685,0.326796129
-Vis,2002,Efficient computation of the topology of level sets,TT,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2002.1183774,12,1.079181246,3
+Vis,2002,Efficient computation of the topology of level sets,TT,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2002.1183774,12,1.079181246,0.338654437
 Vis,2002,A new object-order ray-casting algorithm,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2002.1183776,13,1.113943352,0.349563024
 Vis,2002,Assisted navigation for large information spaces,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2002.1183803,13,1.113943352,0.349563024
 Vis,2002,Face-based luminance matching for perceptual colormap generation,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2002.1183788,13,1.113943352,0.349563024
 Vis,2002,Fast and reliable space leaping for interactive volume rendering,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2002.1183775,13,1.113943352,0.349563024
-Vis,2002,Non-photorealistic volume rendering using stippling techniques,BP,5,3.85,conference paper,http://dx.doi.org/10.1109/VISUAL.2002.1183777,13,1.113943352,3
+Vis,2002,Non-photorealistic volume rendering using stippling techniques,BP,5,3.85,conference paper,http://dx.doi.org/10.1109/VISUAL.2002.1183777,13,1.113943352,0.349563024
 Vis,2002,PRIMA: A case study of using information visualization techniques for patient record analysis,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.2002.1183817,13,1.113943352,0.349563024
 Vis,2002,Scalable alignment of large-format multi-projector displays using camera homography trees,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.2002.1183793,14,1.146128036,0.359662797
 Vis,2002,Case study on the adaptation of interactive visualization applications to Web-based production for operational mesoscale weather models,0,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.2002.1183827,15,1.176091259,0.369065461
@@ -946,7 +946,7 @@ Vis,2002,Volumetric shadows using splatting,0,2,1.54,conference paper,http://dx.
 Vis,2002,Computing singularities of 3D vector fields with geometric algebra,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2002.1183786,60,1.77815125,0.557995993
 Vis,2002,Isometric embedding by surface reconstruction from distances,0,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.2002.1183782,65,1.812913357,0.56890458
 Vis,2002,BLIC: Bi-Level Isosurface Compression,0,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.2002.1183807,66,1.819543936,0.5709853
-InfoVis,2002,Multiscale visualization using data cubes,BP,3,2.31,conference paper,http://dx.doi.org/10.1109/INFVIS.2002.1173141,70,1.84509804,3
+InfoVis,2002,Multiscale visualization using data cubes,BP,3,2.31,conference paper,http://dx.doi.org/10.1109/INFVIS.2002.1173141,70,1.84509804,0.579004353
 InfoVis,2002,Interactive information visualization of a million items,0,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.2002.1173156,72,1.857332496,0.582843609
 Vis,2002,Efficient simplification of point-sampled surfaces,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2002.1183771,73,1.86332286,0.584723426
 Vis,2002,Semotus Visum: a flexible remote visualization framework,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2002.1183758,73,1.86332286,0.584723426
@@ -974,7 +974,7 @@ Vis,2003,Hardware-based nonlinear filtering and segmentation using high-level sh
 Vis,2003,HyperLIC,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250379,0,0,0
 Vis,2003,Quasi-static approach approximation for 6 degrees-of-freedom haptic rendering,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250380,0,0,0
 InfoVis,2003,Visualizing evolving networks: minimum spanning trees versus pathfinder networks,0,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.2003.1249010,0,0,0
-Vis,2003,Acceleration techniques for GPU-based volume rendering,TT,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250384,2,0.301029996,3
+Vis,2003,Acceleration techniques for GPU-based volume rendering,TT,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250384,2,0.301029996,0.094465266
 InfoVis,2003,Edgelens: an interactive method for managing edge congestion in graphs,0,3,2.31,conference paper,http://dx.doi.org/10.1109/INFVIS.2003.1249008,2,0.301029996,0.094465266
 Vis,2003,Visualizing spatial and temporal variability in coastal observatories,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250421,2,0.301029996,0.094465266
 Vis,2003,Out-of-core isosurface extraction of time-varying fields over irregular grids,0,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250375,3,0.477121255,0.149723905
@@ -982,7 +982,7 @@ InfoVis,2003,FundExplorer: supporting the diversification of mutual fund portfol
 Vis,2003,Hierarchical splatting of scattered data,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250404,4,0.602059991,0.188930533
 InfoVis,2003,Constant density displays using diversity sampling,0,4,3.08,conference paper,http://dx.doi.org/10.1109/INFVIS.2003.1249019,5,0.698970004,0.219341556
 InfoVis,2003,"Interactive hierarchical dimension ordering, spacing and filtering for exploration of high dimensional datasets",0,4,3.08,conference paper,http://dx.doi.org/10.1109/INFVIS.2003.1249015,6,0.77815125,0.244189171
-Vis,2003,Interactive protein manipulation,BA,5,3.85,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250423,6,0.77815125,3
+Vis,2003,Interactive protein manipulation,BA,5,3.85,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250423,6,0.77815125,0.244189171
 Vis,2003,Planet-sized batched dynamic adaptive meshes (P-BDAM),0,6,4.62,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250366,6,0.77815125,0.244189171
 Vis,2003,Producing high-quality visualizations of large-scale simulation,0,5,3.85,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250422,6,0.77815125,0.244189171
 Vis,2003,Visualization of steep breaking waves and thin spray sheets around a ship,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250419,6,0.77815125,0.244189171
@@ -1040,7 +1040,7 @@ Vis,2003,High dimensional direct rendering of time-varying volumetric data,0,3,2
 Vis,2003,Saddle connectors - an approach to visualizing the topological skeleton of complex 3D vector fields,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250376,46,1.662757832,0.521784751
 InfoVis,2003,Using multilevel call matrices in large software projects,0,1,0.77,conference paper,http://dx.doi.org/10.1109/INFVIS.2003.1249030,49,1.69019608,0.530395061
 Vis,2003,LightKit: a lighting system for effective visualization,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250395,51,1.707570176,0.535847171
-InfoVis,2003,Smooth and efficient zooming and panning,BP,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.2003.1249004,51,1.707570176,3
+InfoVis,2003,Smooth and efficient zooming and panning,BP,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.2003.1249004,51,1.707570176,0.535847171
 Vis,2003,Visibility culling using plenoptic opacity functions for large volume visualization,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250391,53,1.72427587,0.541089531
 Vis,2003,Holographic video display of time-series volumetric medical data,0,9,6.93,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250424,55,1.740362689,0.546137685
 Vis,2003,Feature-sensitive subdivision and isosurface reconstruction,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250360,57,1.755874856,0.551005509
@@ -1057,7 +1057,7 @@ Vis,2003,Visibility based methods and assessment for detail-recovery,0,3,2.31,co
 Vis,2003,Hierarchical clustering for unstructured volumetric scalar fields,0,5,3.85,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250389,78,1.892094603,0.593752195
 InfoVis,2003,Coordinated graph and scatter-plot views for the visual exploration of microarray time-series data,0,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.2003.1249023,79,1.897627091,0.595488327
 InfoVis,2003,Intelligently resolving point occlusion,0,3,2.31,conference paper,http://dx.doi.org/10.1109/INFVIS.2003.1249018,80,1.903089987,0.597202621
-Vis,2003,Counting cases in marching cubes: toward a generic algorithm for producing substitopes,BP,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250354,82,1.913813852,3
+Vis,2003,Counting cases in marching cubes: toward a generic algorithm for producing substitopes,BP,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250354,82,1.913813852,0.600567843
 Vis,2003,Clifford convolution and pattern matching on vector fields,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250372,83,1.919078092,0.602219798
 Vis,2003,Interactive deformation and visualization of level set surfaces using graphics hardware,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.2003.1250357,91,1.959041392,0.614760554
 InfoVis,2003,Empirical comparison of dynamic query sliders and brushing histograms,0,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.2003.1249020,93,1.968482949,0.617723379
@@ -1081,7 +1081,7 @@ InfoVis,2004,Clutter Reduction in Multi-Dimensional Data Visualization Using Dim
 Vis,2004,Linear and cubic box splines for the body centered cubic lattice,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.65,4,0.602059991,0.188930533
 Vis,2004,LoD volume rendering of FEA data,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.69,4,0.602059991,0.188930533
 Vis,2004,Visualization of intricate flow structures for vortex breakdown analysis,0,7,5.39,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.113,4,0.602059991,0.188930533
-InfoVis,2004,A Knowledge Task-Based Framework for Design and Evaluation of Information Visualizations,BP,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.2004.10,5,0.698970004,3
+InfoVis,2004,A Knowledge Task-Based Framework for Design and Evaluation of Information Visualizations,BP,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.2004.10,5,0.698970004,0.219341556
 Vis,2004,Light weight space leaping using ray coherence,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.63,5,0.698970004,0.219341556
 Vis,2004,Local and global comparison of continuous functions,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.68,5,0.698970004,0.219341556
 Vis,2004,Physically based methods for tensor field visualization,0,6,4.62,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.80,5,0.698970004,0.219341556
@@ -1110,7 +1110,7 @@ Vis,2004,Rough interface reconstruction using the level set method,0,3,2.31,conf
 InfoVis,2004,Metric-Based Network Exploration and Multiscale Scatterplot,0,3,2.31,conference paper,http://dx.doi.org/10.1109/INFVIS.2004.47,14,1.146128036,0.359662797
 Vis,2004,Flow field clustering via algebraic multigrid,0,5,3.85,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.32,16,1.204119983,0.377861065
 Vis,2004,Interactive terascale particle visualization,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.55,16,1.204119983,0.377861065
-Vis,2004,STEPS - an application for simulation of transsphenoidal endonasal pituitary surgery,BA,6,4.62,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.98,16,1.204119983,3
+Vis,2004,STEPS - an application for simulation of transsphenoidal endonasal pituitary surgery,BA,6,4.62,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.98,16,1.204119983,0.377861065
 Vis,2004,Visualizing cortical waves and timing from data,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.121,16,1.204119983,0.377861065
 Vis,2004,A graphics hardware-based vortex detection and visualization system,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.3,18,1.255272505,0.393913076
 InfoVis,2004,Building Highly-Coordinated Visualizations in Improvise,0,1,0.77,conference paper,http://dx.doi.org/10.1109/INFVIS.2004.12,18,1.255272505,0.393913076
@@ -1153,7 +1153,7 @@ InfoVis,2004,A Rank-by-Feature Framework for Unsupervised Multidimensional Data 
 Vis,2004,"Anisotropic volume rendering for extremely dense, thin line data",0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.5,76,1.880813592,0.590212137
 Vis,2004,Topological lines in 3D tensor fields,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.105,78,1.892094603,0.593752195
 Vis,2004,Vorticity based flow analysis and visualization for Pelton turbine design optimization,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.128,79,1.897627091,0.595488327
-Vis,2004,Adaptive 4-8 texture hierarchies,BP,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.4,82,1.913813852,3
+Vis,2004,Adaptive 4-8 texture hierarchies,BP,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.4,82,1.913813852,0.600567843
 InfoVis,2004,Expand-Ahead: A Space-Filling Strategy for Browsing Trees,0,3,2.31,conference paper,http://dx.doi.org/10.1109/INFVIS.2004.21,83,1.919078092,0.602219798
 Vis,2004,Non-linear model fitting to parameterize diseased blood vessels,0,6,4.62,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.72,85,1.929418926,0.605464822
 InfoVis,2004,Artifacts of the Presence Era: Using Information Visualization to Create an Evocative Souvenir,0,4,3.08,conference paper,http://dx.doi.org/10.1109/INFVIS.2004.8,86,1.934498451,0.607058812
@@ -1161,7 +1161,7 @@ Vis,2004,Importance-driven volume rendering,0,3,2.31,conference paper,http://dx.
 Vis,2004,Projecting tetrahedra without rendering artifacts,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.85,87,1.939519253,0.608634373
 Vis,2004,"Methods for efficient, high quality volume resampling in the frequency domain",0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.70,98,1.991226076,0.624860327
 Vis,2004,Pixel-exact rendering of spacetime finite element solutions,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.81,106,2.025305865,0.635554798
-Vis,2004,Simplifying flexible isosurfaces using local geometric measures,TT,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.96,115,2.06069784,3
+Vis,2004,Simplifying flexible isosurfaces using local geometric measures,TT,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.96,115,2.06069784,0.646661041
 Vis,2004,Real-time motion estimation and visualization on graphics cards,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.88,117,2.068185862,0.649010833
 InfoVis,2004,Paint Inspired Color Mixing and Compositing for Visualization,0,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.2004.52,118,2.071882007,0.650170709
 InfoVis,2004,Time-Varying Data Visualization Using Information Flocking Boids,0,1,0.77,conference paper,http://dx.doi.org/10.1109/INFVIS.2004.65,125,2.096910013,0.658024668
@@ -1171,7 +1171,7 @@ Vis,2004,Interactive design of multi-perspective images for visualizing urban la
 InfoVis,2004,"Steerable, Progressive Multidimensional Scaling",0,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.2004.60,201,2.303196057,0.722758636
 Vis,2004,Dispersion simulation and visualization for urban security,0,9,6.93,conference paper,http://dx.doi.org/10.1109/VISUAL.2004.24,287,2.457881897,0.771300108
 Vis,2005,Query-driven visualization of large data sets,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.2005.1532792,0,0,0
-Vis,2005,The value of visualization,BP;TT,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.2005.1532781,1,0,3
+Vis,2005,The value of visualization,BP;TT,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.2005.1532781,1,0,0
 Vis,2005,The visible radio: process visualization of a software-defined radio,0,5,3.85,conference paper,http://dx.doi.org/10.1109/VISUAL.2005.1532791,1,0,0
 Vis,2005,Fast visualization by shear-warp on quadratic super-spline models using wavelet data decompositions,0,7,5.39,conference paper,http://dx.doi.org/10.1109/VISUAL.2005.1532816,3,0.477121255,0.149723905
 Vis,2005,Quality mesh generation for molecular skin surfaces using restricted union of balls,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2005.1532822,3,0.477121255,0.149723905
@@ -1207,7 +1207,7 @@ InfoVis,2005,Dynamic visualization of graphs with extended labels,0,6,4.62,confe
 Vis,2005,View-dependent rendering of multiresolution texture-atlases,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2005.1532798,15,1.176091259,0.369065461
 Vis,2005,Farthest point seeding for efficient placement of streamlines,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VISUAL.2005.1532832,16,1.204119983,0.377861065
 Vis,2005,Hardware-accelerated 3D visualization of mass spectrometry data,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2005.1532827,16,1.204119983,0.377861065
-InfoVis,2005,Dig-CoLa: directed graph layout through constrained energy minimization,BP,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.2005.1532130,17,1.230448921,3
+InfoVis,2005,Dig-CoLa: directed graph layout through constrained energy minimization,BP,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.2005.1532130,17,1.230448921,0.386123266
 InfoVis,2005,Graph-theoretic scagnostics,0,3,2.31,conference paper,http://dx.doi.org/10.1109/INFVIS.2005.1532142,17,1.230448921,0.386123266
 InfoVis,2005,A sky dome visualisation for identification of astronomical orientations,0,2,1.54,conference paper,http://dx.doi.org/10.1109/INFVIS.2005.1532123,18,1.255272505,0.393913076
 Vis,2005,Sort-middle multi-projector immediate-mode rendering in Chromium,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2005.1532784,18,1.255272505,0.393913076
@@ -1230,7 +1230,7 @@ Vis,2005,Visualization of the genus of knots,0,2,1.54,conference paper,http://dx
 InfoVis,2005,Temporal visualization of planning polygons for efficient partitioning of geo-spatial data,0,3,2.31,conference paper,http://dx.doi.org/10.1109/INFVIS.2005.1532149,28,1.447158031,0.454128063
 Vis,2005,Fast and reproducible fiber bundle selection in DTI visualization,0,5,3.85,conference paper,http://dx.doi.org/10.1109/VISUAL.2005.1532778,33,1.51851394,0.476520034
 Vis,2005,Interactive visual analysis and exploration of injection systems simulations,0,5,3.85,conference paper,http://dx.doi.org/10.1109/VISUAL.2005.1532821,34,1.531478917,0.480588532
-Vis,2005,High dynamic range volume visualization,BA,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.2005.1532812,36,1.556302501,3
+Vis,2005,High dynamic range volume visualization,BA,4,3.08,conference paper,http://dx.doi.org/10.1109/VISUAL.2005.1532812,36,1.556302501,0.488378342
 Vis,2005,Texture-based visualization of uncertainty in flow fields,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VISUAL.2005.1532853,36,1.556302501,0.488378342
 Vis,2005,Stream-processing points,0,1,0.77,conference paper,http://dx.doi.org/10.1109/VISUAL.2005.1532801,37,1.568201724,0.4921124
 Vis,2005,VolQD: direct volume rendering of multi-million atom quantum dot simulations,0,5,3.85,conference paper,http://dx.doi.org/10.1109/VISUAL.2005.1532811,38,1.579783597,0.49574687
@@ -1326,7 +1326,7 @@ Vis,2006,Using Difference Intervals for Time-Varying Isosurface Visualization,0,
 Vis,2006,Visual Signatures in Video Visualization,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2006.194,12,1.079181246,0.338654437
 InfoVis,2006,Complex Logarithmic Views for Small Details in Large Contexts,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2006.126,13,1.113943352,0.349563024
 Vis,2006,Concurrent Visualization in a Production Supercomputing Environment,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2006.128,13,1.113943352,0.349563024
-InfoVis,2006,Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data,TT;BP,1,0.77,journal paper,http://dx.doi.org/10.1109/TVCG.2006.147,13,1.113943352,3
+InfoVis,2006,Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data,TT;BP,1,0.77,journal paper,http://dx.doi.org/10.1109/TVCG.2006.147,13,1.113943352,0.349563024
 Vis,2006,A Novel Visualization Model for Web Search Results,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2006.111,14,1.146128036,0.359662797
 Vis,2006,Fast and Efficient Compression of Floating-Point Data,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2006.143,16,1.204119983,0.377861065
 Vis,2006,Saliency-guided Enhancement for Volume Visualization,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2006.174,16,1.204119983,0.377861065
@@ -1338,7 +1338,7 @@ Vis,2006,Feature Aligned Volume Manipulation for Illustration and Visualization,
 VAST,2006,Visual Analytics of Paleoceanographic Conditions,0,1,0.77,conference paper,http://dx.doi.org/10.1109/VAST.2006.261452,19,1.278753601,0.401281604
 Vis,2006,Techniques for the Visualization of Topological Defect Behavior in Nematic Liquid Crystals,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2006.182,20,1.301029996,0.408272089
 VAST,2006,Visual Exploration of Spatio-temporal Relationships for Scientific Data,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VAST.2006.261451,20,1.301029996,0.408272089
-Vis,2006,Understanding the Structure of the Turbulent Mixing Layer in Hydrodynamic Instabilities,BA,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2006.186,21,1.322219295,3
+Vis,2006,Understanding the Structure of the Turbulent Mixing Layer in Hydrodynamic Instabilities,BA,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2006.186,21,1.322219295,0.414921435
 Vis,2006,Isosurface Extraction and Spatial filtering using Persistent Octree (POT),0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2006.157,22,1.342422681,0.421261396
 Vis,2006,"Multi-variate, Time Varying, and Comparative Visualization with Contextual Cues",0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2006.164,22,1.342422681,0.421261396
 VAST,2006,Scentindex: Conceptually Reorganizing Subject Indexes for Reading,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2006.261418,22,1.342422681,0.421261396
@@ -1350,7 +1350,7 @@ Vis,2006,High-Level User Interfaces for Transfer Function Design with Semantics,
 Vis,2006,Interactive Point-Based Rendering of Higher-Order Tetrahedral Data,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2006.154,29,1.462397998,0.458910469
 Vis,2006,A Trajectory-Preserving Synchronization Method for Collaborative Visualization,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2006.114,31,1.491361694,0.467999474
 VAST,2006,NetLens: Iterative Exploration of Content-Actor Network Data,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2006.261426,33,1.51851394,0.476520034
-VAST,2006,A Visual Interface for Multivariate Temporal Data: Finding Patterns of Events across Multiple Histories,TT,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2006.261421,34,1.531478917,3
+VAST,2006,A Visual Interface for Multivariate Temporal Data: Finding Patterns of Events across Multiple Histories,TT,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2006.261421,34,1.531478917,0.480588532
 Vis,2006,Scalable WIM: Effective Exploration in Large-scale Astrophysical Environments,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2006.176,34,1.531478917,0.480588532
 Vis,2006,Outlier-Preserving Focus+Context Visualization in Parallel Coordinates,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2006.170,35,1.544068044,0.484539086
 Vis,2006,Scalable Data Servers for Large Multivariate Volume Visualization,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2006.175,35,1.544068044,0.484539086
@@ -1360,7 +1360,7 @@ Vis,2006,Progressive Volume Rendering of Large Unstructured Grids,0,4,3.08,journ
 InfoVis,2006,Topographic Visualization of Prefix Propagation in the Internet,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2006.185,39,1.591064607,0.499286928
 Vis,2006,Comparative Visualization for Wave-based and Geometric Acoustics,0,7,5.39,journal paper,http://dx.doi.org/10.1109/TVCG.2006.125,40,1.602059991,0.502737355
 Vis,2006,Real-Time Illustration of Vascular Structures,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2006.172,40,1.602059991,0.502737355
-Vis,2006,On Histograms and Isosurface Statistics,BP,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2006.168,41,1.612783857,3
+Vis,2006,On Histograms and Isosurface Statistics,BP,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2006.168,41,1.612783857,0.506102577
 InfoVis,2006,Smashing Peacocks Further: Drawing Quasi-Trees from Biconnected Components,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2006.177,41,1.612783857,0.506102577
 Vis,2006,LOD Map - A Visual Interface for Navigating Multiresolution Volume Visualization,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2006.159,43,1.633468456,0.512593545
 Vis,2006,Multifield-Graphs: An Approach to Visualizing Correlations in Multifield Scalar Data,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2006.165,43,1.633468456,0.512593545
@@ -1436,9 +1436,9 @@ Vis,2007,An Effective Illustrative Visualization Framework Based on Photic Extre
 Vis,2007,Efficient Visualization of Lagrangian Coherent Structures by filtered AMR Ridge Extraction,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70554,14,1.146128036,0.359662797
 Vis,2007,LiveSync: Deformed Viewing Spheres for Knowledge-Based Navigation,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70576,14,1.146128036,0.359662797
 VAST,2007,IMAS: The Interactive Multigenomic Analysis System,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VAST.2007.4388997,15,1.176091259,0.369065461
-InfoVis,2007,ManyEyes: a Site for Visualization at Internet Scale,TT,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70577,16,1.204119983,3
+InfoVis,2007,ManyEyes: a Site for Visualization at Internet Scale,TT,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70577,16,1.204119983,0.377861065
 Vis,2007,IStar: A Raster Representation for Scalable Image and Volume Data,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70572,17,1.230448921,0.386123266
-InfoVis,2007,Visualizing the History of Living Spaces,BP,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70621,17,1.230448921,3
+InfoVis,2007,Visualizing the History of Living Spaces,BP,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70621,17,1.230448921,0.386123266
 Vis,2007,Time Dependent Processing in a Parallel Pipeline Architecture,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70600,18,1.255272505,0.393913076
 Vis,2007,Visualizing Large-Scale Uncertainty in Astrophysical Data,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70530,18,1.255272505,0.393913076
 Vis,2007,Moment Invariants for the Analysis of 2D Flow fields,0,9,6.93,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70579,19,1.278753601,0.401281604
@@ -1468,10 +1468,10 @@ VAST,2007,Visual Analysis of Controversy in User-generated Encyclopedias,0,2,1.5
 VAST,2007,SpiralView: Towards Security Policies Assessment through Visual Correlation of Network Resources with Evolution of Alarms,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VAST.2007.4389007,35,1.544068044,0.484539086
 Vis,2007,Construction of Simplified Boundary Surfaces from Serial-sectioned Metal Micrographs,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70543,36,1.556302501,0.488378342
 Vis,2007,"Topology, Accuracy, and Quality of Isosurface Meshes Using Dynamic Particles",0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70604,36,1.556302501,0.488378342
-VAST,2007,Jigsaw: Supporting Investigative Analysis through Interactive Visualization,TT,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2007.4389006,37,1.568201724,3
+VAST,2007,Jigsaw: Supporting Investigative Analysis through Interactive Visualization,TT,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2007.4389006,37,1.568201724,0.4921124
 VAST,2007,Literature Fingerprinting: A New Method for Visual Literary Analysis,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VAST.2007.4389004,37,1.568201724,0.4921124
 Vis,2007,Navigating in a Shape Space of Registered Models,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70581,38,1.579783597,0.49574687
-Vis,2007,High-Quality Multimodal Volume Rendering for Preoperative Planning of Neurosurgical Interventions,BA,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70560,39,1.591064607,3
+Vis,2007,High-Quality Multimodal Volume Rendering for Preoperative Planning of Neurosurgical Interventions,BA,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70560,39,1.591064607,0.499286928
 Vis,2007,Virtual Rheoscopic Fluids for Flow Visualization,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70610,39,1.591064607,0.499286928
 InfoVis,2007,Visualizing Causal Semantics Using Animations,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70528,40,1.602059991,0.502737355
 InfoVis,2007,Exploring Multiple Trees through DAG Representations,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70556,41,1.612783857,0.506102577
@@ -1504,7 +1504,7 @@ Vis,2007,Efficient Surface Reconstruction using Generalized Coulomb Potentials,0
 VAST,2007,Thin Client Visualization,0,6,4.62,conference paper,http://dx.doi.org/10.1109/VAST.2007.4388996,112,2.049218023,0.643058596
 VAST,2007,Intelligent Visual Analytics Queries,0,5,3.85,conference paper,http://dx.doi.org/10.1109/VAST.2007.4389001,118,2.071882007,0.650170709
 Vis,2007,Interactive Isosurface Ray Tracing of Time-Varying Tetrahedral Volumes,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70566,128,2.10720997,0.661256864
-Vis,2007,Querying and Creating Visualizations by Analogy,BP,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70584,143,2.155336037,3
+Vis,2007,Querying and Creating Visualizations by Analogy,BP,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70584,143,2.155336037,0.676359153
 Vis,2007,Uncertainty Visualization in Medical Volume Rendering Using Probabilistic Animation,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70518,157,2.195899652,0.689088292
 Vis,2007,Topologically Clean Distance fields,0,7,5.39,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70603,161,2.206825876,0.692517015
 Vis,2007,Two-Level Approach to Efficient Visualization of Protein Dynamics,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2007.70517,166,2.220108088,0.696685064
@@ -1523,22 +1523,22 @@ VAST,2008,Generating hypotheses of trends in high-dimensional data skeletons,0,3
 VAST,2008,Multivariate visual explanation for high dimensional datasets,0,5,3.85,conference paper,http://dx.doi.org/10.1109/VAST.2008.4677368,8,0.903089987,0.283395799
 Vis,2008,Text Scaffolds for Effective Surface Labeling,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2008.168,8,0.903089987,0.283395799
 Vis,2008,Interactive Comparison of Scalar fields Based on Largest Contours with Applications to Flow Visualization,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2008.143,9,0.954242509,0.29944781
-InfoVis,2008,Stacked Graphs - Geometry & Aesthetics,HM,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2008.166,9,0.954242509,3
-VAST,2008,Entity-based collaboration tools for intelligence analysis,BP,3,2.31,conference paper,http://dx.doi.org/10.1109/VAST.2008.4677362,10,1,3
+InfoVis,2008,Stacked Graphs - Geometry & Aesthetics,HM,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2008.166,9,0.954242509,0.29944781
+VAST,2008,Entity-based collaboration tools for intelligence analysis,BP,3,2.31,conference paper,http://dx.doi.org/10.1109/VAST.2008.4677362,10,1,0.313806822
 Vis,2008,Brushing of Attribute Clouds for the Visualization of Multivariate Data,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2008.116,11,1.041392685,0.326796129
 VAST,2008,Configurable Spaces: Temporal analysis in diagrammatic contexts,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2008.4677355,11,1.041392685,0.326796129
 InfoVis,2008,Evaluating the Use of Data Transformation for Information Visualization,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2008.129,11,1.041392685,0.326796129
 VAST,2008,Multidimensional visual analysis using cross-filtered views,0,1,0.77,conference paper,http://dx.doi.org/10.1109/VAST.2008.4677370,11,1.041392685,0.326796129
-InfoVis,2008,Rolling the Dice: Multidimensional Visual Exploration using Scatterplot Matrix Navigation,BP,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2008.153,11,1.041392685,3
+InfoVis,2008,Rolling the Dice: Multidimensional Visual Exploration using Scatterplot Matrix Navigation,BP,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2008.153,11,1.041392685,0.326796129
 InfoVis,2008,Vispedia: Interactive Visual Exploration of Wikipedia Data via Search-Based Integration,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2008.178,12,1.079181246,0.338654437
 InfoVis,2008,Balloon Focus: a Seamless Multi-Focus+Context Method for Treemaps,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2008.114,13,1.113943352,0.349563024
 InfoVis,2008,Cerebral: Visualizing Multiple Experimental Conditions on a Graph with Biological Context,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2008.117,14,1.146128036,0.359662797
 Vis,2008,Effects of Video Placement and Spatial Context Presentation on Path Reconstruction Tasks with Contextualized Videos,0,10,7.7,journal paper,http://dx.doi.org/10.1109/TVCG.2008.126,14,1.146128036,0.359662797
 Vis,2008,Hypothesis Generation in Climate Research with Interactive Visual Data Exploration,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2008.139,14,1.146128036,0.359662797
-InfoVis,2008,A Framework of Interaction Costs in Information Visualization,HM,1,0.77,journal paper,http://dx.doi.org/10.1109/TVCG.2008.109,15,1.176091259,3
+InfoVis,2008,A Framework of Interaction Costs in Information Visualization,HM,1,0.77,journal paper,http://dx.doi.org/10.1109/TVCG.2008.109,15,1.176091259,0.369065461
 InfoVis,2008,Rapid Graph Layout Using Space filling Curves,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2008.158,15,1.176091259,0.369065461
 VAST,2008,Spatio-temporal aggregation for visual analysis of movements,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VAST.2008.4677356,15,1.176091259,0.369065461
-InfoVis,2008,Effectiveness of Animation in Trend Visualization,TT,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2008.125,17,1.230448921,3
+InfoVis,2008,Effectiveness of Animation in Trend Visualization,TT,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2008.125,17,1.230448921,0.386123266
 Vis,2008,Smoke Surfaces: An Interactive Flow Visualization Technique Inspired by Real-World Flow Experiments,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2008.163,17,1.230448921,0.386123266
 VAST,2008,Model-driven Visual Analytics,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2008.4677352,18,1.255272505,0.393913076
 InfoVis,2008,Particle-based labeling: Fast point-feature labeling without obscuring other visual features,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2008.152,19,1.278753601,0.401281604
@@ -1559,7 +1559,7 @@ Vis,2008,Continuous Scatterplots,0,2,1.54,journal paper,http://dx.doi.org/10.110
 Vis,2008,AD-Frustum: Adaptive Frustum Tracing for Interactive Sound Propagation,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2008.111,36,1.556302501,0.488378342
 InfoVis,2008,EMDialog: Bringing Information Visualization into the Museum,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2008.127,36,1.556302501,0.488378342
 Vis,2008,Particle-based Sampling and Meshing of Surfaces in Multimaterial Volumes,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2008.154,36,1.556302501,0.488378342
-InfoVis,2008,The Shaping of Information by Visual Metaphors,HM,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2008.171,36,1.556302501,3
+InfoVis,2008,The Shaping of Information by Visual Metaphors,HM,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2008.171,36,1.556302501,0.488378342
 InfoVis,2008,HiPP: A Novel Hierarchical Point Placement Strategy and its Application to the Exploration of Document Collections,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2008.138,37,1.568201724,0.4921124
 Vis,2008,Visibility-driven Mesh Analysis and Visualization through Graph Cuts,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2008.176,37,1.568201724,0.4921124
 VAST,2008,The Scalable Reasoning System: Lightweight visualization for distributed analytics,0,9,6.93,conference paper,http://dx.doi.org/10.1109/VAST.2008.4677366,38,1.579783597,0.49574687
@@ -1614,16 +1614,16 @@ InfoVis,2009,Participatory Visualization with Wordle,0,3,2.31,journal paper,http
 VAST,2009,"What's being said near ""Martha""? Exploring name entities in literary text collections",0,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2009.5333248,1,0,0
 InfoVis,2009,Interactive Dimensionality Reduction Through User-defined Combinations of Quality Metrics,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2009.153,2,0.301029996,0.094465266
 InfoVis,2009,"""Search, Show Context, Expand on Demand"": Supporting Large Graph Exploration with Degree-of-Interest",0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2009.108,3,0.477121255,0.149723905
-VAST,2009,Parallel Tag Clouds to explore and analyze faceted text corpora,TT,3,2.31,conference paper,http://dx.doi.org/10.1109/VAST.2009.5333443,3,0.477121255,3
+VAST,2009,Parallel Tag Clouds to explore and analyze faceted text corpora,TT,3,2.31,conference paper,http://dx.doi.org/10.1109/VAST.2009.5333443,3,0.477121255,0.149723905
 InfoVis,2009,ResultMaps: Visualization for Search Interfaces,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2009.176,3,0.477121255,0.149723905
 Vis,2009,A Novel Interface for Interactive Exploration of DTI fibers,0,10,7.7,journal paper,http://dx.doi.org/10.1109/TVCG.2009.112,4,0.602059991,0.188930533
 Vis,2009,Interactive Streak Surface Visualization on the GPU,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2009.154,4,0.602059991,0.188930533
 VAST,2009,Model space visualization for multivariate linear trend discovery,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VAST.2009.5333431,4,0.602059991,0.188930533
-InfoVis,2009,A Nested Model for Visualization Design and Validation,TT,1,0.77,journal paper,http://dx.doi.org/10.1109/TVCG.2009.111,5,0.698970004,3
-Vis,2009,Depth-Dependent Halos: Illustrative Rendering of Dense Line Data,BP,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2009.138,5,0.698970004,3
+InfoVis,2009,A Nested Model for Visualization Design and Validation,TT,1,0.77,journal paper,http://dx.doi.org/10.1109/TVCG.2009.111,5,0.698970004,0.219341556
+Vis,2009,Depth-Dependent Halos: Illustrative Rendering of Dense Line Data,BP,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2009.138,5,0.698970004,0.219341556
 InfoVis,2009,SpicyNodes: Radial Layout Authoring for the General Public,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2009.183,6,0.77815125,0.244189171
-InfoVis,2009,Interaction Techniques for Selecting and Manipulating Subgraphs in Network Visualizations,HM,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2009.151,7,0.84509804,3
-Vis,2009,Perception-Based Transparency Optimization for Direct Volume Rendering,HM,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2009.172,7,0.84509804,3
+InfoVis,2009,Interaction Techniques for Selecting and Manipulating Subgraphs in Network Visualizations,HM,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2009.151,7,0.84509804,0.26519753
+Vis,2009,Perception-Based Transparency Optimization for Direct Volume Rendering,HM,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2009.172,7,0.84509804,0.26519753
 VAST,2009,Using projection and 2D plots to visually reveal genetic mechanisms of complex human disorders,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2009.5333917,9,0.954242509,0.29944781
 Vis,2009,Continuous Parallel Coordinates,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2009.131,10,1,0.313806822
 VAST,2009,Visual analysis of graphs with multiple connected components,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VAST.2009.5333893,10,1,0.313806822
@@ -1631,9 +1631,9 @@ Vis,2009,Quantitative Texton Sequences for Legible Bivariate Maps,0,1,0.77,journ
 InfoVis,2009,Towards Utilizing GPUs in Information Visualization: A Model and Implementation of Image-Space Operations,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2009.191,11,1.041392685,0.326796129
 VAST,2009,A visual analytics system for radio frequency fingerprinting-based localization,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2009.5332596,12,1.079181246,0.338654437
 Vis,2009,Hue-Preserving Color Blending,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2009.150,12,1.079181246,0.338654437
-InfoVis,2009,Mapping Text with Phrase Nets,BP,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2009.165,12,1.079181246,3
+InfoVis,2009,Mapping Text with Phrase Nets,BP,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2009.165,12,1.079181246,0.338654437
 InfoVis,2009,Document Cards: A Top Trumps Visualization for Documents,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2009.139,13,1.113943352,0.349563024
-InfoVis,2009,MizBee: A Multiscale Synteny Browser,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2009.167,13,1.113943352,3
+InfoVis,2009,MizBee: A Multiscale Synteny Browser,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2009.167,13,1.113943352,0.349563024
 VAST,2009,VAST contest dataset use in education,0,7,5.39,conference paper,http://dx.doi.org/10.1109/VAST.2009.5333245,13,1.113943352,0.349563024
 InfoVis,2009,FromDaDy: Spreading Aircraft Trajectories Across Views to Support Iterative Queries,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2009.145,14,1.146128036,0.359662797
 Vis,2009,A Visual Approach to Efficient Analysis and Quantification of Ductile Iron and Reinforced Sprayed Concrete,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2009.115,15,1.176091259,0.369065461
@@ -1644,14 +1644,14 @@ VAST,2009,LSAView: A tool for visual exploration of latent semantic modeling,0,3
 VAST,2009,Describing story evolution from dynamic information streams,0,5,3.85,conference paper,http://dx.doi.org/10.1109/VAST.2009.5333437,19,1.278753601,0.401281604
 Vis,2009,Isosurface Extraction and View-Dependent filtering from Time-Varying fields Using Persistent Time-Octree (PTOT),0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2009.160,19,1.278753601,0.401281604
 InfoVis,2009,GeneShelf: A Web-based Visual Interface for Large Gene Expression Time-Series Data Repositories,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2009.146,20,1.301029996,0.408272089
-Vis,2009,Markerless View-Independent Registration of Multiple Distorted Projectors on Extruded Surfaces Using an Uncalibrated Camera,HM,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2009.166,20,1.301029996,3
+Vis,2009,Markerless View-Independent Registration of Multiple Distorted Projectors on Extruded Surfaces Using an Uncalibrated Camera,HM,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2009.166,20,1.301029996,0.408272089
 Vis,2009,Sampling and Visualizing Creases with Scale-Space Particles,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2009.177,21,1.322219295,0.414921435
 Vis,2009,Automatic Transfer Function Generation Using Contour Tree Controlled Residue Flow Model and Color Harmonics,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2009.120,22,1.342422681,0.421261396
 Vis,2009,"Mapping High-fidelity Volume Rendering for Medical Imaging to CPU, GPU and Many-Core Architectures",0,14,10.78,journal paper,http://dx.doi.org/10.1109/TVCG.2009.164,22,1.342422681,0.421261396
 Vis,2009,GL4D: A GPU-based Architecture for Interactive 4D Visualization,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2009.147,23,1.361727836,0.427319485
 VAST,2009,Proximity-based visualization of movement trace data,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2009.5332593,23,1.361727836,0.427319485
 InfoVis,2009,Visualizing Social Photos on a Hasse Diagram for Eliciting Relations and Indexing New Photos,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2009.201,23,1.361727836,0.427319485
-VAST,2009,Iterative integration of visual insights during patent search and analysis,BP,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2009.5333564,24,1.380211242,3
+VAST,2009,Iterative integration of visual insights during patent search and analysis,BP,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2009.5333564,24,1.380211242,0.433119704
 VAST,2009,MassVis: Visual analysis of protein complexes using mass spectrometry,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VAST.2009.5333895,24,1.380211242,0.433119704
 Vis,2009,Time and Streak Surfaces for Flow Visualization in Large Time-Varying Data Sets,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2009.190,25,1.397940009,0.438683112
 Vis,2009,Visual Human+Machine Learning,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2009.199,26,1.414973348,0.44402829
@@ -1683,7 +1683,7 @@ Vis,2009,A User Study to Compare Four Uncertainty Visualization Methods for 1D a
 Vis,2009,"High-Quality, Semi-Analytical Volume Rendering for AMR Data",0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2009.149,45,1.653212514,0.518789365
 Vis,2009,Interactive Visual Optimization and Analysis for RfiD Benchmarking,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2009.156,47,1.672097858,0.524715715
 Vis,2009,Multi-Scale Surface Descriptors,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2009.168,47,1.672097858,0.524715715
-InfoVis,2009,SellTrend: Inter-Attribute Visual Analysis of Temporal Transaction Data,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2009.180,47,1.672097858,3
+InfoVis,2009,SellTrend: Inter-Attribute Visual Analysis of Temporal Transaction Data,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2009.180,47,1.672097858,0.524715715
 InfoVis,2009,A Comparison of User-Generated and Automatic Graph Layouts,0,7,5.39,journal paper,http://dx.doi.org/10.1109/TVCG.2009.109,49,1.69019608,0.530395061
 InfoVis,2009,Exemplar-based Visualization of Large Document Corpus,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2009.140,49,1.69019608,0.530395061
 Vis,2009,Visualization and Exploration of Temporal Trend Relationships in Multivariate Time-Varying Data,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2009.200,49,1.69019608,0.530395061
@@ -1704,13 +1704,13 @@ Vis,2009,Scalable and Interactive Segmentation and Visualization of Neural Proce
 Vis,2009,Intrinsic Geometric Scale Space by Shape Diffusion,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2009.159,70,1.84509804,0.579004353
 InfoVis,2009,Lark: Coordinating Co-located Collaboration with Information Visualization,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2009.162,77,1.886490725,0.59199366
 VAST,2009,Evaluating visual analytics systems for investigative analysis: Deriving design principles from a case study,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VAST.2009.5333878,80,1.903089987,0.597202621
-Vis,2009,Interactive Visualization of Molecular Surface Dynamics,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2009.157,80,1.903089987,3
+Vis,2009,Interactive Visualization of Molecular Surface Dynamics,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2009.157,80,1.903089987,0.597202621
 InfoVis,2009,Protovis: A Graphical Toolkit for Visualization,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2009.174,82,1.913813852,0.600567843
 Vis,2009,Focus+Context Route Zooming and Information Overlay in 3D Urban Environments,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2009.144,84,1.924279286,0.603851968
 Vis,2009,VisMashup: Streamlining the Creation of Custom Visualization Applications,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2009.195,88,1.944482672,0.610191928
 VAST,2009,finVis: Applied visual analytics for personal financial planning,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VAST.2009.5333920,89,1.949390007,0.611731883
-InfoVis,2009,ABySS-Explorer: Visualizing Genome Sequence Assemblies,BP,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2009.116,92,1.963787827,3
-InfoVis,2009,Configuring Hierarchical Layouts to Address Research Questions,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2009.128,94,1.973127854,3
+InfoVis,2009,ABySS-Explorer: Visualizing Genome Sequence Assemblies,BP,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2009.116,92,1.963787827,0.616250018
+InfoVis,2009,Configuring Hierarchical Layouts to Address Research Questions,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2009.128,94,1.973127854,0.619180982
 Vis,2009,Verifiable Visualization for Isosurface Extraction,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2009.194,107,2.029383778,0.636834474
 VAST,2009,Combining automated analysis and visualization techniques for effective exploration of high-dimensional data,0,7,5.39,conference paper,http://dx.doi.org/10.1109/VAST.2009.5332628,115,2.06069784,0.646661041
 InfoVis,2009,Harnessing the Information Ecosystem with Wiki-based Visualization Dashboards,0,1,0.77,journal paper,http://dx.doi.org/10.1109/TVCG.2009.148,121,2.08278537,0.653592259
@@ -1743,7 +1743,7 @@ InfoVis,2010,The Streams of Our Lives: Visualizing Listening Histories in Contex
 VAST,2010,DimStiller: Workflows for dimensional analysis and reduction,0,6,4.62,conference paper,http://dx.doi.org/10.1109/VAST.2010.5652392,11,1.041392685,0.326796129
 Vis,2010,Volumetric Modeling in Laser BPH Therapy Simulation,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2010.221,11,1.041392685,0.326796129
 InfoVis,2010,Gremlin: An Interactive Visualization Model for Analyzing Genomic Rearrangements,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2010.163,12,1.079181246,0.338654437
-Vis,2010,Illustrative Stream Surfaces,HM,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2010.166,12,1.079181246,3
+Vis,2010,Illustrative Stream Surfaces,HM,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2010.166,12,1.079181246,0.338654437
 InfoVis,2010,Visualization of Diversity in Large Multivariate Data Sets,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2010.216,12,1.079181246,0.338654437
 InfoVis,2010,An Extension of Wilkinson's Algorithm for Positioning Tick Labels on Axes,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2010.130,13,1.113943352,0.349563024
 VAST,2010,Flow-based scatterplots for sensitivity analysis,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VAST.2010.5652460,13,1.113943352,0.349563024
@@ -1753,7 +1753,7 @@ Vis,2010,Spatial Conditioning of Transfer Functions Using Local Material Distrib
 Vis,2010,Supine and Prone Colon Registration Using Quasi-Conformal Mapping,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2010.200,14,1.146128036,0.359662797
 Vis,2010,Fast High-Quality Volume Ray Casting with Virtual Samplings,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2010.155,15,1.176091259,0.369065461
 InfoVis,2010,Mental Models; Visual Reasoning and Interaction in Information Visualization: A Top-down Perspective,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2010.177,15,1.176091259,0.369065461
-InfoVis,2010,Necklace Maps,HM,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2010.180,15,1.176091259,3
+InfoVis,2010,Necklace Maps,HM,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2010.180,15,1.176091259,0.369065461
 InfoVis,2010,MulteeSum: A Tool for Comparative Spatial and Temporal Gene Expression Data,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2010.137,16,1.204119983,0.377861065
 VAST,2010,A closer look at note taking in the co-located collaborative visual analytics process,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VAST.2010.5652879,17,1.230448921,0.386123266
 InfoVis,2010,The FlowVizMenu and Parallel Scatterplot Matrix: Hybrid Multidimensional Visualizations for Network Exploration,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2010.205,17,1.230448921,0.386123266
@@ -1761,12 +1761,12 @@ VAST,2010,Helping users recall their reasoning process,0,5,3.85,conference paper
 InfoVis,2010,Untangling Euler Diagrams,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2010.210,18,1.255272505,0.393913076
 Vis,2010,Visualizing Flow Trajectories Using Locality-based Rendering and Warped Curve Plots,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2010.218,18,1.255272505,0.393913076
 VAST,2010,Improving the visual analysis of high-dimensional datasets using quality measures,0,5,3.85,conference paper,http://dx.doi.org/10.1109/VAST.2010.5652433,19,1.278753601,0.401281604
-InfoVis,2010,Rethinking Map Legends with Visualization,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2010.191,19,1.278753601,3
+InfoVis,2010,Rethinking Map Legends with Visualization,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2010.191,19,1.278753601,0.401281604
 InfoVis,2010,eSeeTrack��Visualizing Sequential fixation Patterns,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2010.149,20,1.301029996,0.408272089
-VAST,2010,An exploratory study of co-located collaborative visual analytics around a tabletop display,HM,5,3.85,conference paper,http://dx.doi.org/10.1109/VAST.2010.5652880,21,1.322219295,3
+VAST,2010,An exploratory study of co-located collaborative visual analytics around a tabletop display,HM,5,3.85,conference paper,http://dx.doi.org/10.1109/VAST.2010.5652880,21,1.322219295,0.414921435
 Vis,2010,Gradient Estimation Revitalized,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2010.160,21,1.322219295,0.414921435
 Vis,2010,Interactive Visual Analysis of Multiple Simulation Runs Using the Simulation Model View: Understanding and Tuning of an Electronic Unit Injector,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2010.171,21,1.322219295,0.414921435
-InfoVis,2010,Perceptual Guidelines for Creating Rectangular Treemaps,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2010.186,21,1.322219295,3
+InfoVis,2010,Perceptual Guidelines for Creating Rectangular Treemaps,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2010.186,21,1.322219295,0.414921435
 VAST,2010,Interactive querying of temporal data using a comic strip metaphor,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VAST.2010.5652890,22,1.342422681,0.421261396
 Vis,2010,Projector Placement Planning for High Quality Visualizations on Real-World Colored Objects,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2010.189,22,1.342422681,0.421261396
 Vis,2010,Edge Aware Anisotropic Diffusion for 3D Scalar Data,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2010.147,23,1.361727836,0.427319485
@@ -1784,7 +1784,7 @@ VAST,2010,VizCept: Supporting synchronous collaboration for constructing visuali
 InfoVis,2010,A Visual Backchannel for Large-Scale Events,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2010.129,29,1.462397998,0.458910469
 Vis,2010,Visual Optimality and Stability Analysis of 3DCT Scan Positions,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2010.214,29,1.462397998,0.458910469
 InfoVis,2010,Comparative Analysis of Multidimensional; Quantitative Data,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2010.138,30,1.477121255,0.463530727
-VAST,2010,Discovering bits of place histories from people's activity traces,HM,5,3.85,conference paper,http://dx.doi.org/10.1109/VAST.2010.5652478,30,1.477121255,3
+VAST,2010,Discovering bits of place histories from people's activity traces,HM,5,3.85,conference paper,http://dx.doi.org/10.1109/VAST.2010.5652478,30,1.477121255,0.463530727
 Vis,2010,Efficient High-Quality Volume Rendering of SPH Data,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2010.148,30,1.477121255,0.463530727
 Vis,2010,On the Fractal Dimension of Isosurfaces,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2010.182,30,1.477121255,0.463530727
 InfoVis,2010,Uncovering Strengths and Weaknesses of Radial Visualizations---an Empirical Approach,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2010.209,31,1.491361694,0.467999474
@@ -1792,9 +1792,9 @@ InfoVis,2010,Stacking Graphic Elements to Avoid Over-Plotting,0,3,2.31,journal p
 InfoVis,2010,behaviorism: a framework for dynamic data visualization,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2010.126,34,1.531478917,0.480588532
 InfoVis,2010,Pargnostics: Screen-Space Metrics for Parallel Coordinates,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2010.184,34,1.531478917,0.480588532
 VAST,2010,Understanding text corpora with multiple facets,0,6,4.62,conference paper,http://dx.doi.org/10.1109/VAST.2010.5652931,34,1.531478917,0.480588532
-InfoVis,2010,Narrative Visualization: Telling Stories with Data,TT,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2010.179,36,1.556302501,3
-Vis,2010,Streak Lines as Tangent Curves of a Derived Vector field,BP,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2010.198,39,1.591064607,3
-VAST,2010,Visual readability analysis: How to make your writings easier to read,BP,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2010.5652926,39,1.591064607,3
+InfoVis,2010,Narrative Visualization: Telling Stories with Data,TT,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2010.179,36,1.556302501,0.488378342
+Vis,2010,Streak Lines as Tangent Curves of a Derived Vector field,BP,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2010.198,39,1.591064607,0.499286928
+VAST,2010,Visual readability analysis: How to make your writings easier to read,BP,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2010.5652926,39,1.591064607,0.499286928
 Vis,2010,Analysis of Recurrent Patterns in Toroidal Magnetic fields,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2010.133,40,1.602059991,0.502737355
 Vis,2010,Visual Exploration of High Dimensional Scalar Functions,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2010.213,41,1.612783857,0.506102577
 Vis,2010,An Information-theoretic Framework for Visualization,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2010.132,48,1.681241237,0.52758497
@@ -1807,7 +1807,7 @@ Vis,2010,Noodles: A Tool for Visualization of Numerical Weather Model Ensemble U
 Vis,2010,Articulated Planar Reformation for Change Visualization in Small Animal Imaging,0,8,6.16,journal paper,http://dx.doi.org/10.1109/TVCG.2010.134,56,1.748188027,0.54859333
 InfoVis,2010,Visualization of Graph Products,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2010.217,56,1.748188027,0.54859333
 Vis,2010,Scalable Multi-variate Analytics of Seismic and Satellite-based Observational Data,0,7,5.39,journal paper,http://dx.doi.org/10.1109/TVCG.2010.192,57,1.755874856,0.551005509
-InfoVis,2010,Declarative Language Design for Interactive Visualization,HM,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2010.144,59,1.770852012,3
+InfoVis,2010,Declarative Language Design for Interactive Visualization,HM,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2010.144,59,1.770852012,0.555705443
 VAST,2010,Two-stage framework for a topology-based projection and visualization of classified document collections,0,7,5.39,conference paper,http://dx.doi.org/10.1109/VAST.2010.5652940,62,1.792391689,0.56246474
 Vis,2010,Special Relativistic Visualization by Local Ray Tracing,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2010.196,63,1.799340549,0.56464534
 Vis,2010,TanGeoMS: Tangible Geospatial Modeling System,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2010.202,63,1.799340549,0.56464534
@@ -1826,14 +1826,14 @@ VAST,2010,Click2Annotate: Automated Insight Externalization with rich semantics,
 Vis,2010,Browsing Large Image Datasets through Voronoi Diagrams,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2010.136,86,1.934498451,0.607058812
 Vis,2010,View-Dependent Streamlines for 3D Vector fields,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2010.212,100,2,0.627613645
 VAST,2010,finding and visualizing relevant subspaces for clustering high-dimensional astronomical data using connected morphological operators,0,5,3.85,conference paper,http://dx.doi.org/10.1109/VAST.2010.5652450,103,2.012837225,0.631642053
-VAST,2010,iVisClassifier: An interactive visual analytics system for classification based on supervised dimension reduction,TT,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2010.5652443,107,2.029383778,3
+VAST,2010,iVisClassifier: An interactive visual analytics system for classification based on supervised dimension reduction,TT,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2010.5652443,107,2.029383778,0.636834474
 InfoVis,2010,Graphical Perception of Multiple Time Series,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2010.162,110,2.041392685,0.640602952
 VAST,2010,"Geo-historical context support for information foraging and sensemaking: Conceptual model, implementation, and assessment",0,2,1.54,conference paper,http://dx.doi.org/10.1109/VAST.2010.5652895,116,2.064457989,0.647841001
-Vis,2010,World Lines,HM,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2010.223,141,2.149219113,3
-InfoVis,2010,Graphical inference for infovis,BP,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2010.161,147,2.167317335,3
+Vis,2010,World Lines,HM,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2010.223,141,2.149219113,0.67443962
+InfoVis,2010,Graphical inference for infovis,BP,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2010.161,147,2.167317335,0.680118966
 InfoVis,2010,PedVis: A Structured; Space-Efficient Technique for Pedigree Visualization,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2010.185,153,2.184691431,0.685571076
 Vis,2010,Interactive Visualization of Hyperspectral Images of Historical Documents,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2010.172,166,2.220108088,0.696685064
-InfoVis,2010,SignalLens: Focus+Context Applied to Electronic Time Series,HM,1,0.77,journal paper,http://dx.doi.org/10.1109/TVCG.2010.193,287,2.457881897,3
+InfoVis,2010,SignalLens: Focus+Context Applied to Electronic Time Series,HM,1,0.77,journal paper,http://dx.doi.org/10.1109/TVCG.2010.193,287,2.457881897,0.771300108
 VAST,2011,BaobabView: Interactive construction and analysis of decision trees,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VAST.2011.6102453,2,0.301029996,0.094465266
 Vis,2011,Extinction-Based Shading and Illumination in GPU Volume Ray-Casting,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2011.198,2,0.301029996,0.094465266
 VAST,2011,Supporting effective common ground construction in Asynchronous Collaborative Visual Analytics,0,5,3.85,conference paper,http://dx.doi.org/10.1109/VAST.2011.6102447,2,0.301029996,0.094465266
@@ -1841,7 +1841,7 @@ VAST,2011,A visual navigation system for querying neural stem cell imaging data,
 InfoVis,2011,Visual Thinking In Action: Visualizations As Used On Whiteboards,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2011.251,5,0.698970004,0.219341556
 Vis,2011,An Efficient Direct Volume Rendering Approach for Dichromats,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2011.164,6,0.77815125,0.244189171
 InfoVis,2011,Exploring Uncertainty in Geodemographics with Interactive Graphics,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2011.197,6,0.77815125,0.244189171
-VAST,2011,From movement tracks through events to places: Extracting and characterizing significant places from mobility data,BP,5,3.85,conference paper,http://dx.doi.org/10.1109/VAST.2011.6102454,6,0.77815125,3
+VAST,2011,From movement tracks through events to places: Extracting and characterizing significant places from mobility data,BP,5,3.85,conference paper,http://dx.doi.org/10.1109/VAST.2011.6102454,6,0.77815125,0.244189171
 InfoVis,2011,Visualization Rhetoric: Framing Effects in Narrative Visualization,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2011.255,6,0.77815125,0.244189171
 InfoVis,2011,Flexible Linked Axes for Multivariate Data Visualization,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2011.201,7,0.84509804,0.26519753
 VAST,2011,G-PARE: A visual analytic tool for comparative analysis of uncertain graphs,0,5,3.85,conference paper,http://dx.doi.org/10.1109/VAST.2011.6102442,7,0.84509804,0.26519753
@@ -1849,7 +1849,7 @@ Vis,2011,An Interactive Local Flattening Operator to Support Digital Investigati
 InfoVis,2011,"Angular Histograms: Frequency-Based Visualizations for Large, High Dimensional Data",0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2011.166,8,0.903089987,0.283395799
 Vis,2011,A Scale Space Based Persistence Measure for Critical Points in 2D Scalar fields,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2011.159,9,0.954242509,0.29944781
 Vis,2011,Features in Continuous Parallel Coordinates,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2011.200,9,0.954242509,0.29944781
-VAST,2011,How locus of control influences compatibility with visualization style,HM,6,4.62,conference paper,http://dx.doi.org/10.1109/VAST.2011.6102445,9,0.954242509,3
+VAST,2011,How locus of control influences compatibility with visualization style,HM,6,4.62,conference paper,http://dx.doi.org/10.1109/VAST.2011.6102445,9,0.954242509,0.29944781
 VAST,2011,Interactive decision making using dissimilarity to visually represented prototypes,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VAST.2011.6102451,9,0.954242509,0.29944781
 Vis,2011,"Interactive, Graph-based Visual Analysis of High-dimensional, Multi-parameter Fluorescence Microscopy Data in Toponomics",0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2011.217,9,0.954242509,0.29944781
 Vis,2011,Two-Dimensional Time-Dependent Vortex Regions Based on the Acceleration Magnitude,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2011.249,9,0.954242509,0.29944781
@@ -1868,7 +1868,7 @@ VAST,2011,Obvious: A meta-toolkit to encapsulate information visualization toolk
 VAST,2011,"Orion: A system for modeling, transformation and visualization of multidimensional heterogeneous networks",0,2,1.54,conference paper,http://dx.doi.org/10.1109/VAST.2011.6102441,18,1.255272505,0.393913076
 InfoVis,2011,Adaptive Privacy-Preserving Visualization Using Parallel Coordinates,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2011.163,19,1.278753601,0.401281604
 VAST,2011,Characterizing the intelligence analysis process: Informing visual analytics design through a longitudinal field study,0,2,1.54,conference paper,http://dx.doi.org/10.1109/VAST.2011.6102438,19,1.278753601,0.401281604
-InfoVis,2011,Local Affine Multidimensional Projection,HM,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2011.220,19,1.278753601,3
+InfoVis,2011,Local Affine Multidimensional Projection,HM,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2011.220,19,1.278753601,0.401281604
 InfoVis,2011,Drawing Road Networks with Focus Regions,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2011.191,20,1.301029996,0.408272089
 Vis,2011,The FLOWLENS: A Focus-and-Context Visualization Approach for Exploration of Blood Flow in Cerebral Aneurysms,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2011.243,21,1.322219295,0.414921435
 InfoVis,2011,"VisBricks: Multiform Visualization of Large, Inhomogeneous Data",0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2011.250,21,1.322219295,0.414921435
@@ -1876,7 +1876,7 @@ Vis,2011,Visualization of Topological Structures in Area-Preserving Maps,0,3,2.3
 Vis,2011,Volume Analysis Using Multimodal Surface Similarity,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2011.258,23,1.361727836,0.427319485
 InfoVis,2011,Focus+Context Metro Maps,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2011.205,24,1.380211242,0.433119704
 Vis,2011,Projection-Based Metal-Artifact Reduction for Industrial 3D X-ray Computed Tomography,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2011.228,24,1.380211242,0.433119704
-VAST,2011,Network-based visual analysis of tabular data,HM,3,2.31,conference paper,http://dx.doi.org/10.1109/VAST.2011.6102440,25,1.397940009,3
+VAST,2011,Network-based visual analysis of tabular data,HM,3,2.31,conference paper,http://dx.doi.org/10.1109/VAST.2011.6102440,25,1.397940009,0.438683112
 Vis,2011,Interactive Virtual Probing of 4D MRI Blood-Flow,0,7,5.39,journal paper,http://dx.doi.org/10.1109/TVCG.2011.215,26,1.414973348,0.44402829
 InfoVis,2011,Exploring Ambient and Artistic Visualization for Residential Energy Use Feedback,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2011.196,27,1.431363764,0.449171714
 Vis,2011,GPU-based Real-Time Approximation of the Ablation Zone for Radiofrequency Ablation,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2011.207,27,1.431363764,0.449171714
@@ -1884,7 +1884,7 @@ InfoVis,2011,BirdVis: Visualizing and Understanding Bird Populations,0,7,5.39,jo
 Vis,2011,Multi-Touch Table System for Medical Visualization: Application to Orthopedic Surgery Planning,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2011.224,28,1.447158031,0.454128063
 Vis,2011,Topological Spines: A Structure-preserving Visual Representation of Scalar fields,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2011.244,28,1.447158031,0.454128063
 InfoVis,2011,Product Plots,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2011.227,29,1.462397998,0.458910469
-Vis,2011,Saliency-Assisted Navigation of Very Large Landscape Images,HM,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2011.231,29,1.462397998,3
+Vis,2011,Saliency-Assisted Navigation of Very Large Landscape Images,HM,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2011.231,29,1.462397998,0.458910469
 Vis,2011,Flow Radar Glyphs��Static Visualization of Unsteady Flow with Uncertainty,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2011.203,30,1.477121255,0.463530727
 InfoVis,2011,Asymmetric Relations in Longitudinal Social Networks,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2011.169,31,1.491361694,0.467999474
 InfoVis,2011,Quality Metrics in High-Dimensional Data Visualization: An Overview and Systematization,0,1,0.77,journal paper,http://dx.doi.org/10.1109/TVCG.2011.229,31,1.491361694,0.467999474
@@ -1894,13 +1894,13 @@ Vis,2011,Evaluation of Trend Localization with Multi-Variate Visualizations,0,2,
 Vis,2011,Feature-Based Statistical Analysis of Combustion Simulation Data,0,9,6.93,journal paper,http://dx.doi.org/10.1109/TVCG.2011.199,34,1.531478917,0.480588532
 InfoVis,2011,Improved Similarity Trees and their Application to Visual Data Classification,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2011.212,34,1.531478917,0.480588532
 InfoVis,2011,Skeleton-Based Edge Bundling for Graph Visualization,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2011.233,34,1.531478917,0.480588532
-VAST,2011,Visual social network analytics for relationship discovery in the enterprise,HM,5,3.85,conference paper,http://dx.doi.org/10.1109/VAST.2011.6102443,35,1.544068044,3
-Vis,2011,Artificial Defocus for Displaying Markers in Microscopy Z-Stacks,HM,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2011.168,36,1.556302501,3
+VAST,2011,Visual social network analytics for relationship discovery in the enterprise,HM,5,3.85,conference paper,http://dx.doi.org/10.1109/VAST.2011.6102443,35,1.544068044,0.484539086
+Vis,2011,Artificial Defocus for Displaying Markers in Microscopy Z-Stacks,HM,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2011.168,36,1.556302501,0.488378342
 VAST,2011,Interactive visual comparison of multiple trees,0,6,4.62,conference paper,http://dx.doi.org/10.1109/VAST.2011.6102439,36,1.556302501,0.488378342
 InfoVis,2011,Visualization of Parameter Space for Image Analysis,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2011.253,36,1.556302501,0.488378342
 InfoVis,2011,Parallel Edge Splatting for Scalable Dynamic Graph Visualization,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2011.226,37,1.568201724,0.4921124
 InfoVis,2011,A Study on Dual-Scale Data Charts,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2011.160,38,1.579783597,0.49574687
-Vis,2011,Voronoi-Based Extraction and Visualization of Molecular Paths,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2011.259,38,1.579783597,3
+Vis,2011,Voronoi-Based Extraction and Visualization of Molecular Paths,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2011.259,38,1.579783597,0.49574687
 VAST,2011,Guiding feature subset selection with an interactive visualization,0,5,3.85,conference paper,http://dx.doi.org/10.1109/VAST.2011.6102448,40,1.602059991,0.502737355
 Vis,2011,Hierarchical Event Selection for Video Storyboards with a Case Study on Snooker Video Visualization,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2011.208,40,1.602059991,0.502737355
 VAST,2011,Analysis of large digital collections with interactive visualization,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2011.6102462,42,1.62324929,0.509386702
@@ -1913,7 +1913,7 @@ Vis,2011,Adaptive Extraction and Quantification of Geophysical Vortices,0,8,6.16
 InfoVis,2011,In Situ Exploration of Large Dynamic Networks,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2011.213,49,1.69019608,0.530395061
 VAST,2011,A visual analytics process for maritime resource allocation and risk assessment,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2011.6102460,50,1.698970004,0.533148378
 Vis,2011,Automatic Transfer Functions Based on Informational Divergence,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2011.173,50,1.698970004,0.533148378
-Vis,2011,Towards Robust Topology of Sparsely Sampled Data,BP,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2011.245,50,1.698970004,3
+Vis,2011,Towards Robust Topology of Sparsely Sampled Data,BP,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2011.245,50,1.698970004,0.533148378
 Vis,2011,Crepuscular Rays for Tumor Accessibility Planning,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2011.184,51,1.707570176,0.535847171
 InfoVis,2011,Flow Map Layout via Spiral Trees,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2011.202,52,1.716003344,0.538493556
 Vis,2011,Image Plane Sweep Volume Illumination,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2011.211,55,1.740362689,0.546137685
@@ -1941,9 +1941,9 @@ Vis,2011,Branching and Circular Features in High Dimensional Data,0,4,3.08,journ
 InfoVis,2011,"Design Study of LineSets, a Novel Set Visualization Technique",0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2011.186,92,1.963787827,0.616250018
 InfoVis,2011,Evaluation of Artery Visualizations for Heart Disease Diagnosis,0,8,6.16,journal paper,http://dx.doi.org/10.1109/TVCG.2011.192,101,2.004321374,0.628969721
 VAST,2011,Visual analytics decision support environment for epidemic modeling and response evaluation,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VAST.2011.6102457,101,2.004321374,0.628969721
-InfoVis,2011,Context-Preserving Visual Links,BP,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2011.183,104,2.017033339,3
+InfoVis,2011,Context-Preserving Visual Links,BP,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2011.183,104,2.017033339,0.632958823
 InfoVis,2011,Stereoscopic Highlighting: 2D Graph Visualization on Stereo Displays,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2011.234,105,2.021189299,0.634262991
-InfoVis,2011,Benefitting InfoVis with Visual Difficulties,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2011.175,107,2.029383778,3
+InfoVis,2011,Benefitting InfoVis with Visual Difficulties,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2011.175,107,2.029383778,0.636834474
 InfoVis,2011,Divided Edge Bundling for Directional Network Data,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2011.190,110,2.041392685,0.640602952
 Vis,2011,Vortex Visualization in Ultra Low Reynolds Number Insect Flight,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2011.260,113,2.053078443,0.644270022
 VAST,2011,ParallelTopics: A probabilistic approach to exploring document collections,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2011.6102461,116,2.064457989,0.647841001
@@ -1955,14 +1955,14 @@ Vis,2011,Interactive Volume Visualization of General Polyhedral Grids,0,4,3.08,j
 InfoVis,2011,TextFlow: Towards Better Understanding of Evolving Topics in Text,0,8,6.16,journal paper,http://dx.doi.org/10.1109/TVCG.2011.239,405,2.607455023,0.818237175
 InfoVis,2012,PivotPaths: Strolling through Faceted Information Spaces,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2012.252,0,0,0
 SciVis,2012,Visualization of Flow Behavior in Earth Mantle Convection,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2012.283,1,0,0
-VAST,2012,Enterprise Data Analysis and Visualization: An Interview Study,HM,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2012.219,2,0.301029996,3
+VAST,2012,Enterprise Data Analysis and Visualization: An Interview Study,HM,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2012.219,2,0.301029996,0.094465266
 VAST,2012,Scatter/Gather Clustering: Flexibly Incorporating User Feedback to Steer Clustering Results,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2012.258,2,0.301029996,0.094465266
 InfoVis,2012,Beyond Mouse and Keyboard: Expanding Design Considerations for Information Visualization Interactions,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2012.204,3,0.477121255,0.149723905
 SciVis,2012,Evaluation of Fast-Forward Video Visualization,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2012.222,3,0.477121255,0.149723905
-VAST,2012,Reinventing the Contingency Wheel: Scalable Visual Analytics of Large Categorical Data,HM,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2012.254,3,0.477121255,3
+VAST,2012,Reinventing the Contingency Wheel: Scalable Visual Analytics of Large Categorical Data,HM,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2012.254,3,0.477121255,0.149723905
 InfoVis,2012,Whisper: Tracing the Spatiotemporal Process of Information Diffusion in Real Time,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2012.291,3,0.477121255,0.149723905
 InfoVis,2012,Interactive Level-of-Detail Rendering of Large Graphs,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2012.238,5,0.698970004,0.219341556
-VAST,2012,Visual Analytics Methodology for Eye Movement Studies,BP,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2012.276,5,0.698970004,3
+VAST,2012,Visual Analytics Methodology for Eye Movement Studies,BP,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2012.276,5,0.698970004,0.219341556
 SciVis,2012,A Data-Driven Approach to Hue-Preserving Color-Blending,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2012.186,6,0.77815125,0.244189171
 InfoVis,2012,Perception of Visual Variables on Tiled Wall-Sized Displays for Information Visualization Applications,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2012.251,6,0.77815125,0.244189171
 InfoVis,2012,Evaluating the Effect of Style in Information Visualization,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2012.221,7,0.84509804,0.26519753
@@ -1975,7 +1975,7 @@ SciVis,2012,SeiVis: An Interactive Visual Subsurface Modeling Application,0,6,4.
 VAST,2012,Smart super views---A knowledge-assisted interface for medical visualization,0,8,6.16,conference paper,http://dx.doi.org/10.1109/VAST.2012.6400555,9,0.954242509,0.29944781
 VAST,2012,The Deshredder: A visual analytic approach to reconstructing shredded documents,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VAST.2012.6400560,9,0.954242509,0.29944781
 VAST,2012,Watch this: A taxonomy for dynamic data visualization,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VAST.2012.6400552,10,1,0.313806822
-SciVis,2012,Interactive Volume Exploration of Petascale Microscopy Data Streams Using a Visualization-Driven Virtual Memory Approach,HM,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2012.240,11,1.041392685,3
+SciVis,2012,Interactive Volume Exploration of Petascale Microscopy Data Streams Using a Visualization-Driven Virtual Memory Approach,HM,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2012.240,11,1.041392685,0.326796129
 SciVis,2012,On the Interpolation of Data with Normally Distributed Uncertainty for Visualization,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2012.249,11,1.041392685,0.326796129
 VAST,2012,SocialNetSense: Supporting sensemaking of social and structural features in networks with interactive visualization,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2012.6400558,11,1.041392685,0.326796129
 VAST,2012,A correlative analysis process in a visual analytics environment,0,6,4.62,conference paper,http://dx.doi.org/10.1109/VAST.2012.6400491,12,1.079181246,0.338654437
@@ -2017,7 +2017,7 @@ InfoVis,2012,Interaction Support for Visual Comparison Inspired by Natural Behav
 SciVis,2012,Visualization of Temporal Similarity in field Data,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2012.284,39,1.591064607,0.499286928
 InfoVis,2012,Comparing Clusterings Using Bertin's Idea,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2012.207,40,1.602059991,0.502737355
 InfoVis,2012,Algorithms for Labeling Focus Regions,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2012.193,41,1.612783857,0.506102577
-SciVis,2012,Hierarchical Exploration of Volumes Using Multilevel Segmentation of the Intensity-Gradient Histograms,BP,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2012.231,42,1.62324929,3
+SciVis,2012,Hierarchical Exploration of Volumes Using Multilevel Segmentation of the Intensity-Gradient Histograms,BP,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2012.231,42,1.62324929,0.509386702
 VAST,2012,Semantic Interaction for Sensemaking: Inferring Analytical Reasoning for Model Steering,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2012.260,43,1.633468456,0.512593545
 SciVis,2012,Turbulence Visualization at the Terascale on Desktop PCs,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2012.274,43,1.633468456,0.512593545
 VAST,2012,A Visual Analytics Approach to Multiscale Exploration of Environmental Time Series,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2012.191,44,1.643452676,0.515726662
@@ -2026,20 +2026,20 @@ VAST,2012,Spatiotemporal social media analytics for abnormal event detection and
 VAST,2012,Inter-active learning of ad-hoc classifiers for video visual analytics,0,5,3.85,conference paper,http://dx.doi.org/10.1109/VAST.2012.6400492,45,1.653212514,0.518789365
 VAST,2012,The User Puzzle---Explaining the Interaction with Visual Analytics Systems,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2012.273,45,1.653212514,0.518789365
 VAST,2012,Visual analytics for the big data era---A comparative review of state-of-the-art commercial systems,0,9,6.93,conference paper,http://dx.doi.org/10.1109/VAST.2012.6400554,46,1.662757832,0.521784751
-InfoVis,2012,How Capacity Limits of Attention Influence Information Visualization Effectiveness,BP,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2012.233,47,1.672097858,3
+InfoVis,2012,How Capacity Limits of Attention Influence Information Visualization Effectiveness,BP,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2012.233,47,1.672097858,0.524715715
 SciVis,2012,Multivariate Data Analysis Using Persistence-Based filtering and Topological Signatures,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2012.248,48,1.681241237,0.52758497
 VAST,2012,Subspace search and visualization to make sense of alternative clusterings in high-dimensional data,0,7,5.39,conference paper,http://dx.doi.org/10.1109/VAST.2012.6400488,48,1.681241237,0.52758497
 InfoVis,2012,Taxonomy-Based Glyph Design---with a Case Study on Visualizing Workflows of Biological Experiments,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2012.271,49,1.69019608,0.530395061
-InfoVis,2012,Design Study Methodology: Reflections from the Trenches and the Stacks,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2012.213,51,1.707570176,3
+InfoVis,2012,Design Study Methodology: Reflections from the Trenches and the Stacks,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2012.213,51,1.707570176,0.535847171
 SciVis,2012,Visualization of Electrostatic Dipoles in Molecular Dynamics of Metal Oxides,0,7,5.39,journal paper,http://dx.doi.org/10.1109/TVCG.2012.282,52,1.716003344,0.538493556
 SciVis,2012,A Novel Approach to Visualizing Dark Matter Simulations,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2012.187,53,1.72427587,0.541089531
 InfoVis,2012,An Empirical Study on Using Visual Embellishments in Visualization,0,7,5.39,journal paper,http://dx.doi.org/10.1109/TVCG.2012.197,58,1.763427994,0.553375735
 InfoVis,2012,Evaluating Sketchiness as a Visual Variable for the Depiction of Qualitative Uncertainty,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2012.220,59,1.770852012,0.555705443
 VAST,2012,AlVis: Situation awareness in the surveillance of road tunnels,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VAST.2012.6400556,60,1.77815125,0.557995993
-InfoVis,2012,Assessing the Effect of Visualizations on Bayesian Reasoning through Crowdsourcing,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2012.199,62,1.792391689,3
+InfoVis,2012,Assessing the Effect of Visualizations on Bayesian Reasoning through Crowdsourcing,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2012.199,62,1.792391689,0.56246474
 SciVis,2012,Historygrams: Enabling Interactive Global Illumination in Direct Volume Rendering using Photon Mapping,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2012.232,62,1.792391689,0.56246474
 InfoVis,2012,An Empirical Model of Slope Ratio Comparisons,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2012.196,63,1.799340549,0.56464534
-SciVis,2012,Efficient Structure-Aware Selection Techniques for 3D Point Cloud Visualizations with 2DOF Input,HM,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2012.217,64,1.806179974,3
+SciVis,2012,Efficient Structure-Aware Selection Techniques for 3D Point Cloud Visualizations with 2DOF Input,HM,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2012.217,64,1.806179974,0.566791598
 InfoVis,2012,RelEx: Visualization for Actively Changing Overlay Network Specifications,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2012.255,64,1.806179974,0.566791598
 SciVis,2012,An Adaptive Prediction-Based Approach to Lossless Compression of Floating-Point Volume Data,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2012.194,66,1.819543936,0.5709853
 SciVis,2012,Coherency-Based Curve Compression for High-Order finite Element Model Visualization,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2012.206,68,1.832508913,0.575053799
@@ -2061,7 +2061,7 @@ InfoVis,2012,Sketchy Rendering for Information Visualization,0,6,4.62,journal pa
 InfoVis,2012,Graphical Overlays: Using Layered Elements to Aid Chart Reading,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2012.229,103,2.012837225,0.631642053
 SciVis,2012,Augmented Topological Descriptors of Pore Networks for Material Science,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2012.200,104,2.017033339,0.632958823
 InfoVis,2012,Visualizing Network Traffic to Understand the Performance of Massively Parallel Simulations,0,9,6.93,journal paper,http://dx.doi.org/10.1109/TVCG.2012.286,137,2.136720567,0.670517491
-InfoVis,2012,Visual Semiotics & Uncertainty Visualization: An Empirical Study,HM,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2012.279,142,2.152288344,3
+InfoVis,2012,Visual Semiotics & Uncertainty Visualization: An Empirical Study,HM,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2012.279,142,2.152288344,0.675402766
 InfoVis,2012,Does an Eye Tracker Tell the Truth about Visualizations?: findings while Investigating Visualizations for Decision Making,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2012.215,149,2.173186268,0.681960677
 InfoVis,2012,Spatial Text Visualization Using Automatic Typographic Maps,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2012.264,182,2.260071388,0.70922582
 SciVis,2012,ElVis: A System for the Accurate and Interactive Visualization of High-Order finite Element Solutions,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2012.218,191,2.281033367,0.715803832
@@ -2112,16 +2112,16 @@ SciVis,2013,MObjects--A Novel Method for the Visualization and Interactive Explo
 InfoVis,2013,Visual Compression of Workflow Visualizations with Automated Detection of Macro Motifs,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2013.225,29,1.462397998,0.458910469
 InfoVis,2013,Visual Sedimentation,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2013.227,29,1.462397998,0.458910469
 VAST,2013,SketchPadN-D: WYDIWYG Sculpting and Editing in High-Dimensional Space,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2013.190,30,1.477121255,0.463530727
-VAST,2013,Temporal Event Sequence Simplification,HM,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2013.200,30,1.477121255,3
+VAST,2013,Temporal Event Sequence Simplification,HM,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2013.200,30,1.477121255,0.463530727
 VAST,2013,Visual Exploration of Big Spatio-Temporal Urban Data: A Study of New York City Taxi Trips,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2013.226,30,1.477121255,0.463530727
 InfoVis,2013,Orthographic Star Coordinates,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2013.182,33,1.51851394,0.476520034
 SciVis,2013,Efficient Local Statistical Analysis via Integral Histograms with Discrete Wavelet Transform,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2013.152,34,1.531478917,0.480588532
 VAST,2013,TimeBench: A Data Model and Software Library for Visual Analytics of Time-Oriented Data,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2013.206,34,1.531478917,0.480588532
 VAST,2013,Visual Analysis of Higher-Order Conjunctive Relationships in Multidimensional Data Using a Hypergraph Query System,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2013.220,34,1.531478917,0.480588532
-SciVis,2013,Comparative Visual Analysis of Lagrangian Transport in CFD Ensembles,BP,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2013.141,35,1.544068044,3
+SciVis,2013,Comparative Visual Analysis of Lagrangian Transport in CFD Ensembles,BP,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2013.141,35,1.544068044,0.484539086
 VAST,2013,Space-Time Visual Analytics of Eye-Tracking Data for Dynamic Stimuli,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2013.194,35,1.544068044,0.484539086
 SciVis,2013,Area-Preservation Mapping using Optimal Mass Transport,0,7,5.39,journal paper,http://dx.doi.org/10.1109/TVCG.2013.135,36,1.556302501,0.488378342
-InfoVis,2013,SoccerStories: A Kick-off for Visual Soccer Analysis,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2013.192,37,1.568201724,3
+InfoVis,2013,SoccerStories: A Kick-off for Visual Soccer Analysis,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2013.192,37,1.568201724,0.4921124
 VAST,2013,An Extensible Framework for Provenance in Human Terrain Visual Analytics,0,9,6.93,journal paper,http://dx.doi.org/10.1109/TVCG.2013.132,38,1.579783597,0.49574687
 SciVis,2013,Uncertainty Quantification in Linear Interpolation for Isosurface Extraction,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2013.208,39,1.591064607,0.499286928
 VAST,2013,Space Transformation for Understanding Group Movement,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2013.193,40,1.602059991,0.502737355
@@ -2130,10 +2130,10 @@ InfoVis,2013,Visualizing Change over Time Using Dynamic Hierarchies: TreeVersity
 InfoVis,2013,A Design Space of Visualization Tasks,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2013.120,41,1.612783857,0.506102577
 VAST,2013,The Impact of Physical Navigation on Spatial Organization for Sensemaking,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2013.205,41,1.612783857,0.506102577
 VAST,2013,VAICo: Visual Analysis for Image Comparison,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2013.213,41,1.612783857,0.506102577
-InfoVis,2013,Nanocubes for Real-Time Exploration of Spatiotemporal Datasets,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2013.179,42,1.62324929,3
+InfoVis,2013,Nanocubes for Real-Time Exploration of Spatiotemporal Datasets,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2013.179,42,1.62324929,0.509386702
 VAST,2013,Visual Analytics for Model Selection in Time Series Analysis,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2013.222,42,1.62324929,0.509386702
 SciVis,2013,A Lightweight Tangible 3D Interface for Interactive Visualization of Thin fiber Structures,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2013.121,44,1.643452676,0.515726662
-SciVis,2013,Ambient Volume Scattering,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2013.129,44,1.643452676,3
+SciVis,2013,Ambient Volume Scattering,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2013.129,44,1.643452676,0.515726662
 VAST,2013,Supporting the Visual Analysis of Dynamic Networks by Clustering associated Temporal Attributes,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2013.198,44,1.643452676,0.515726662
 SciVis,2013,An Information-Aware Framework for Exploring Multivariate Data Sets,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2013.133,47,1.672097858,0.524715715
 SciVis,2013,Lighting Design for Globally Illuminated Volume Rendering,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2013.172,47,1.672097858,0.524715715
@@ -2141,11 +2141,11 @@ InfoVis,2013,A Multi-Level Typology of Abstract Visualization Tasks,0,2,1.54,jou
 SciVis,2013,An Exploration Framework to Identify and Track Movement of Cloud Systems,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2013.131,50,1.698970004,0.533148378
 SciVis,2013,Detecting Symmetry in Scalar fields Using Augmented Extremum Graphs,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2013.148,55,1.740362689,0.546137685
 SciVis,2013,Interactive Patient-Specific Vascular Modeling with Sweep Surfaces,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2013.169,55,1.740362689,0.546137685
-VAST,2013,Explainers: Expert Explorations with Crafted Projections,HM,1,0.77,journal paper,http://dx.doi.org/10.1109/TVCG.2013.157,57,1.755874856,3
+VAST,2013,Explainers: Expert Explorations with Crafted Projections,HM,1,0.77,journal paper,http://dx.doi.org/10.1109/TVCG.2013.157,57,1.755874856,0.551005509
 SciVis,2013,Fast Generation of Virtual X-ray Images for Reconstruction of 3D Anatomy,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2013.159,57,1.755874856,0.551005509
 InfoVis,2013,Selecting the Aspect Ratio of a Scatter Plot Based on Its Delaunay Triangulation,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2013.187,57,1.755874856,0.551005509
 SciVis,2013,ConnectomeExplorer: Query-Guided Visual Analysis of Large Volumetric Neuroscience Data,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2013.142,61,1.785329835,0.560248682
-SciVis,2013,Adaptive Refinement of the Flow Map Using Sparse Samples,HM,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2013.128,66,1.819543936,3
+SciVis,2013,Adaptive Refinement of the Flow Map Using Sparse Samples,HM,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2013.128,66,1.819543936,0.5709853
 InfoVis,2013,Creative User-Centered Visualization Design for Energy Analysts and Modelers,0,9,6.93,journal paper,http://dx.doi.org/10.1109/TVCG.2013.145,66,1.819543936,0.5709853
 InfoVis,2013,An Interaction Model for Visualizations Beyond The Desktop,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2013.134,71,1.851258349,0.5809375
 SciVis,2013,A Multi-Criteria Approach to Camera Motion Design for Volume Data Animation,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2013.123,72,1.857332496,0.582843609
@@ -2158,13 +2158,13 @@ InfoVis,2013,Hybrid-Image Visualization for Large Viewing Environments,0,5,3.85,
 SciVis,2013,Contour Boxplots: A Method for Characterizing Uncertainty in Feature Sets from Simulation Ensembles,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2013.143,104,2.017033339,0.632958823
 InfoVis,2013,Information Visualization and Proxemics: Design Opportunities and Empirical findings,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2013.166,105,2.021189299,0.634262991
 InfoVis,2013,Evaluation of filesystem Provenance Visualization Tools,0,7,5.39,journal paper,http://dx.doi.org/10.1109/TVCG.2013.155,108,2.033423755,0.638102247
-InfoVis,2013,LineUp: Visual Analysis of Multi-Attribute Rankings,BP,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2013.173,118,2.071882007,3
+InfoVis,2013,LineUp: Visual Analysis of Multi-Attribute Rankings,BP,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2013.173,118,2.071882007,0.650170709
 SciVis,2013,A Systematic Review on the Practice of Evaluating Visualization,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2013.126,123,2.089905111,0.655826482
-VAST,2013,A Partition-Based Framework for Building and Validating Regression Models,BP,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2013.125,132,2.120573931,3
+VAST,2013,A Partition-Based Framework for Building and Validating Regression Models,BP,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2013.125,132,2.120573931,0.665450567
 InfoVis,2013,Radial Sets: Interactive Visual Analysis of Large Overlapping Sets,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2013.184,140,2.146128036,0.673469619
 InfoVis,2013,A Model for Structure-Based Comparison of Many Categories in Small-Multiple Displays,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2013.122,143,2.155336037,0.676359153
 SciVis,2013,Acuity-Driven Gigapixel Visualization,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2013.127,143,2.155336037,0.676359153
-SciVis,2013,Design by Dragging: An Interface for Creative Forward and Inverse Design with Simulation Ensembles,HM,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2013.147,162,2.209515015,3
+SciVis,2013,Design by Dragging: An Interface for Creative Forward and Inverse Design with Simulation Ensembles,HM,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2013.147,162,2.209515015,0.693360885
 InfoVis,2013,DiffAni: Visualizing Dynamic Graphs with a Hybrid of Difference Maps and Animation,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2013.149,168,2.225309282,0.698317234
 VAST,2013,Semantics of Directly Manipulating Spatializations,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2013.188,172,2.235528447,0.701524078
 VAST,2013,Visual Analysis of Topic Competition on Social Media,0,7,5.39,journal paper,http://dx.doi.org/10.1109/TVCG.2013.221,174,2.240549248,0.70309964
@@ -2186,7 +2186,7 @@ SciVis,2014,Visualization of Regular Maps: The Chase Continues,0,1,0.77,journal 
 VAST,2014,YMCA - Your Mesh Comparison Application,0,6,4.62,conference paper,http://dx.doi.org/10.1109/VAST.2014.7042491,5,0.698970004,0.219341556
 VAST,2014,A Visual Reasoning Approach for Data-driven Transport Assessment on Urban Roads,0,9,6.93,conference paper,http://dx.doi.org/10.1109/VAST.2014.7042486,7,0.84509804,0.26519753
 VAST,2014,Footprints: A Visual Search Tool that Supports Discovery and Coverage Tracking,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346743,7,0.84509804,0.26519753
-InfoVis,2014,Multivariate Network Exploration and Presentation: From Detail to Overview via Selections and Aggregations,BP,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346441,7,0.84509804,3
+InfoVis,2014,Multivariate Network Exploration and Presentation: From Detail to Overview via Selections and Aggregations,BP,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346441,7,0.84509804,0.26519753
 InfoVis,2014,Axis Calibration for Improving Data Attribute Estimation in Star Coordinates Plots,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346258,8,0.903089987,0.283395799
 InfoVis,2014,Error Bars Considered Harmful: Exploring Alternate Encodings for Mean and Error,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346298,8,0.903089987,0.283395799
 SciVis,2014,Stent Maps - Comparative Visualization for the Prediction of Adverse Events of Transcatheter Aortic Valve Implantations,0,7,5.39,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346459,8,0.903089987,0.283395799
@@ -2194,7 +2194,7 @@ SciVis,2014,Using Topological Analysis to Support Event-Guided Exploration in Ur
 VAST,2014,Vismate: Interactive Visual Analysis of Station-Based Observation Data on Climate Changes,0,3,2.31,conference paper,http://dx.doi.org/10.1109/VAST.2014.7042489,8,0.903089987,0.283395799
 SciVis,2014,Volume-Preserving Mapping and Registration for Collective Data Visualization,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346457,8,0.903089987,0.283395799
 SciVis,2014,Interactive Progressive Visualization with Space-Time Error Control,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346319,9,0.954242509,0.29944781
-InfoVis,2014,NeuroLines: A Subway Map Metaphor for Visualizing Nanoscale Neuronal Connectivity,HM,7,5.39,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346312,9,0.954242509,3
+InfoVis,2014,NeuroLines: A Subway Map Metaphor for Visualizing Nanoscale Neuronal Connectivity,HM,7,5.39,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346312,9,0.954242509,0.29944781
 InfoVis,2014,"The relation between visualization size, grouping, and user performance",0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346983,9,0.954242509,0.29944781
 InfoVis,2014,Effects of Presentation Mode and Pace Control on Performance in Image Classification,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346437,10,1,0.313806822
 VAST,2014,Knowledge Generation Model for Visual Analytics,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346481,10,1,0.313806822
@@ -2207,7 +2207,7 @@ InfoVis,2014,Activity Sculptures: Exploring the Impact of Physical Visualization
 InfoVis,2014,Order of Magnitude Markers: An Empirical Study on Large Magnitude Number Detection,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346428,13,1.113943352,0.349563024
 SciVis,2014,Boundary Aware Reconstruction of Scalar Fields,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346351,14,1.146128036,0.359662797
 VAST,2014,DecisionFlow: Visual Analytics for High-Dimensional Temporal Event Sequence Data,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346682,14,1.146128036,0.359662797
-SciVis,2014,A Robust Parity Test for Extracting Parallel Vectors in 3D,HM,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346412,15,1.176091259,3
+SciVis,2014,A Robust Parity Test for Extracting Parallel Vectors in 3D,HM,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346412,15,1.176091259,0.369065461
 InfoVis,2014,UpSet: Visualization of Intersecting Sets,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346248,15,1.176091259,0.369065461
 InfoVis,2014,MovExp: A Versatile Visualization Tool for Human-Computer Interaction Studies with 3D Performance and Biomechanical Data,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346311,16,1.204119983,0.377861065
 InfoVis,2014,Revisiting Bertin Matrices: New Interactions for Crafting Tabular Visualizations,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346279,16,1.204119983,0.377861065
@@ -2237,7 +2237,7 @@ VAST,2014,Visual Analytics for Comparison of Ocean Model Output with Reference D
 InfoVis,2014,Moving beyond sequential design: Reflections on a rich multi-channel approach to data visualization,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346323,28,1.447158031,0.454128063
 VAST,2014,Cupid: Cluster-Based Exploration of Geometry Generators with Parallel Coordinates and Radial Trees,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346626,29,1.462397998,0.458910469
 VAST,2014,EvoRiver: Visual Analysis of Topic Coopetition on Social Media,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346919,29,1.462397998,0.458910469
-VAST,2014,Supporting Communication and Coordination in Collaborative Sensemaking,BP,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346573,29,1.462397998,3
+VAST,2014,Supporting Communication and Coordination in Collaborative Sensemaking,BP,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346573,29,1.462397998,0.458910469
 InfoVis,2014,Exploring the Placement and Design of Word-Scale Visualizations,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346435,31,1.491361694,0.467999474
 VAST,2014,Interactive Visual Analysis of Image-Centric Cohort Study Data,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346591,31,1.491361694,0.467999474
 SciVis,2014,Fixed-Rate Compressed Floating-Point Arrays,0,1,0.77,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346458,32,1.505149978,0.472326332
@@ -2247,7 +2247,7 @@ InfoVis,2014,Combing the Communication Hairball: Visualizing Parallel Execution 
 InfoVis,2014,Design Activity Framework for Visualization Design,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346331,33,1.51851394,0.476520034
 SciVis,2014,Characterizing Molecular Interactions in Chemical Systems,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346403,34,1.531478917,0.480588532
 VAST,2014,Visual Exploration of Sparse Traffic Trajectory Data,0,7,5.39,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346746,34,1.531478917,0.480588532
-SciVis,2014,Visualization of Brain Microstructure Through Spherical Harmonics Illumination of High Fidelity Spatio-Angular Fields,BP,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346411,34,1.531478917,3
+SciVis,2014,Visualization of Brain Microstructure Through Spherical Harmonics Illumination of High Fidelity Spatio-Angular Fields,BP,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346411,34,1.531478917,0.480588532
 VAST,2014,An Insight- and Task-based Methodology for Evaluating Spatiotemporal Visual Analytics,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2014.7042482,36,1.556302501,0.488378342
 SciVis,2014,FLDA: Latent Dirichlet Allocation Based Unsteady Flow Analysis,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346416,36,1.556302501,0.488378342
 InfoVis,2014,DimpVis: Exploring Time-varying Information Visualizations by Direct Manipulation,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346250,37,1.568201724,0.4921124
@@ -2258,7 +2258,7 @@ VAST,2014,Genotet: An Interactive Web-based Visual Exploration Framework to Supp
 VAST,2014,TopicPanorama: A Full Picture of Relevant Topics,0,5,3.85,conference paper,http://dx.doi.org/10.1109/VAST.2014.7042494,41,1.612783857,0.506102577
 VAST,2014,Feedback-Driven Interactive Exploration of Large Multidimensional Data Supported by Visual Classifier,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2014.7042480,42,1.62324929,0.509386702
 InfoVis,2014,PanoramicData: Data Analysis through Pen & Touch,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346293,42,1.62324929,0.509386702
-InfoVis,2014,"Domino: Extracting, Comparing, and Manipulating Subsets Across Multiple Tabular Datasets",HM,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346260,43,1.633468456,3
+InfoVis,2014,"Domino: Extracting, Comparing, and Manipulating Subsets Across Multiple Tabular Datasets",HM,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346260,43,1.633468456,0.512593545
 InfoVis,2014,Nmap: A Novel Neighborhood Preservation Space-filling Algorithm,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346276,43,1.633468456,0.512593545
 VAST,2014,Visual Analysis of Patterns in Multiple Amino Acid Mutation Graphs,0,5,3.85,conference paper,http://dx.doi.org/10.1109/VAST.2014.7042485,43,1.633468456,0.512593545
 VAST,2014,Weaving a Carpet from Log Entries: A Network Security Visualization Built with Co-Creation,0,5,3.85,conference paper,http://dx.doi.org/10.1109/VAST.2014.7042483,43,1.633468456,0.512593545
@@ -2272,8 +2272,8 @@ VAST,2014,INFUSE: Interactive Feature Selection for Predictive Modeling of High 
 VAST,2014,Feature-Driven Visual Analytics of Soccer Data,0,6,4.62,conference paper,http://dx.doi.org/10.1109/VAST.2014.7042477,51,1.707570176,0.535847171
 InfoVis,2014,A Principled Way of Assessing Visualization Literacy,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346984,52,1.716003344,0.538493556
 VAST,2014,Visual Analysis of Public Utility Service Problems in a Metropolis,0,8,6.16,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346898,54,1.73239376,0.543636981
-VAST,2014,#FluxFlow: Visual Analysis of Anomalous Information Spreading on Social Media,HM,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346922,55,1.740362689,3
-InfoVis,2014,An Algebraic Process for Visualization Design,HM,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346325,55,1.740362689,3
+VAST,2014,#FluxFlow: Visual Analysis of Anomalous Information Spreading on Social Media,HM,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346922,55,1.740362689,0.546137685
+InfoVis,2014,An Algebraic Process for Visualization Design,HM,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346325,55,1.740362689,0.546137685
 VAST,2014,Opening the Black Box: Strategies for Increased User Involvement in Existing Algorithm Implementations,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346578,58,1.763427994,0.553375735
 InfoVis,2014,Ranking Visualizations of Correlation Using Weber's Law,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346979,58,1.763427994,0.553375735
 SciVis,2014,Multi-Charts for Comparative 3D Ensemble Visualization,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346448,62,1.792391689,0.56246474
@@ -2296,9 +2296,9 @@ SciVis,2014,Low-Pass Filtered Volumetric Shadows,0,4,3.08,journal paper,http://d
 InfoVis,2014,"Overview: The Design, Adoption, and Analysis of a Visual Document Mining Tool for Investigative Journalists",0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346431,113,2.053078443,0.644270022
 SciVis,2014,Sparse PDF Volumes for Consistent Multi-Resolution Volume Rendering,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346324,121,2.08278537,0.653592259
 InfoVis,2014,Tree Colors: Color Schemes for Tree-Structured Data,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346277,143,2.155336037,0.676359153
-VAST,2014,LoyalTracker: Visualizing Loyalty Dynamics in Search Engines,HM,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346912,157,2.195899652,3
+VAST,2014,LoyalTracker: Visualizing Loyalty Dynamics in Search Engines,HM,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346912,157,2.195899652,0.689088292
 VAST,2014,PEARL: An Interactive Visual Analytic Tool for Understanding Personal Emotion Style Derived from Social Media,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2014.7042496,166,2.220108088,0.696685064
-SciVis,2014,City Forensics: Using Visual Elements to Predict Non-Visual City Attributes,HM,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346446,189,2.276461804,3
+SciVis,2014,City Forensics: Using Visual Elements to Predict Non-Visual City Attributes,HM,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346446,189,2.276461804,0.714369245
 InfoVis,2014,The Not-so-Staggering Effect of Staggered Animated Transitions on Visual Tracking,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346424,196,2.292256071,0.719325594
 InfoVis,2014,OnSet: A Visualization Technique for Large-scale Binary Set Data,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346249,197,2.294466226,0.720019155
 InfoVis,2014,Visual Parameter Space Analysis: A Conceptual Framework,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2014.2346321,295,2.469822016,0.775046998
@@ -2343,7 +2343,7 @@ SciVis,2015,Visual Verification of Space Weather Ensemble Simulations,0,6,4.62,c
 SciVis,2015,Distribution Driven Extraction and Tracking of Features for Time-varying Data Analysis,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467436,18,1.255272505,0.393913076
 InfoVis,2015,"Matches, Mismatches, and Methods: Multiple-View Workflows for Energy Portfolio Analysis",0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2466971,18,1.255272505,0.393913076
 VAST,2015,Visual Analytics for Development and Evaluation of Order Selection Criteria for Autoregressive Processes,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467612,18,1.255272505,0.393913076
-SciVis,2015,Visualization-by-Sketching: An Artist's Interface for Creating Multivariate Time-Varying Data Visualizations,BP,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467153,18,1.255272505,3
+SciVis,2015,Visualization-by-Sketching: An Artist's Interface for Creating Multivariate Time-Varying Data Visualizations,BP,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467153,18,1.255272505,0.393913076
 InfoVis,2015,Voyager: Exploratory Analysis via Faceted Browsing of Visualization Recommendations,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467191,18,1.255272505,0.393913076
 SciVis,2015,Real-time Uncertainty Visualization for B-Mode Ultrasound,0,5,3.85,conference paper,http://dx.doi.org/10.1109/SciVis.2015.7429489,20,1.301029996,0.408272089
 InfoVis,2015,AggreSet: Rich and Scalable Set Exploration using Visualizations of Element Aggregations,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467051,21,1.322219295,0.414921435
@@ -2353,7 +2353,7 @@ VAST,2015,FeatureInsight: Visual support for error-driven feature ideation in te
 SciVis,2015,Planar Visualization of Treelike Structures,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467413,21,1.322219295,0.414921435
 VAST,2015,Visually Exploring Transportation Schedules,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467592,21,1.322219295,0.414921435
 VAST,2015,Mixed-initiative visual analytics using task-driven recommendations,0,7,5.39,conference paper,http://dx.doi.org/10.1109/VAST.2015.7347625,22,1.342422681,0.421261396
-VAST,2015,Reducing Snapshots to Points: A Visual Analytics Approach to Dynamic Network Exploration,BP,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2468078,22,1.342422681,3
+VAST,2015,Reducing Snapshots to Points: A Visual Analytics Approach to Dynamic Network Exploration,BP,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2468078,22,1.342422681,0.421261396
 VAST,2015,Urbane: A 3D framework to support data driven decision making in urban development,0,8,6.16,conference paper,http://dx.doi.org/10.1109/VAST.2015.7347636,22,1.342422681,0.421261396
 InfoVis,2015,Visually Comparing Weather Features in Forecasts,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467754,22,1.342422681,0.421261396
 SciVis,2015,A Classification of User Tasks in Visual Analysis of Volume Data,0,4,3.08,conference paper,http://dx.doi.org/10.1109/SciVis.2015.7429485,23,1.361727836,0.427319485
@@ -2376,12 +2376,12 @@ SciVis,2015,Diderot: a Domain-Specific Language for Portable Parallel Scientific
 VAST,2015,An Uncertainty-Aware Approach for Exploratory Microblog Retrieval,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467554,31,1.491361694,0.467999474
 InfoVis,2015,Guidelines for Effective Usage of Text Highlighting Techniques,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467759,31,1.491361694,0.467999474
 VAST,2015,SensePath: Understanding the Sensemaking Process Through Analytic Provenance,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467611,31,1.491361694,0.467999474
-VAST,2015,A Case Study Using Visualization Interaction Logs and Insight Metrics to Understand How Analysts Arrive at Insights,HM,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467613,32,1.505149978,3
+VAST,2015,A Case Study Using Visualization Interaction Logs and Insight Metrics to Understand How Analysts Arrive at Insights,HM,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467613,32,1.505149978,0.472326332
 InfoVis,2015,Probing Projections: Interaction Techniques for Interpreting Arrangements and Errors of Dimensionality Reductions,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467717,32,1.505149978,0.472326332
 VAST,2015,PhenoBlocks: Phenotype Comparison Visualizations,0,7,5.39,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467733,33,1.51851394,0.476520034
 SciVis,2015,NeuroBlocks - Visual Tracking of Segmentation and Proofreading for Large Connectomics Projects,0,7,5.39,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467441,34,1.531478917,0.480588532
 InfoVis,2015,Vials: Visualizing Alternative Splicing of Genes,0,7,5.39,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467911,34,1.531478917,0.480588532
-InfoVis,2015,HOLA: Human-like Orthogonal Network Layout,BP,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467451,35,1.544068044,3
+InfoVis,2015,HOLA: Human-like Orthogonal Network Layout,BP,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467451,35,1.544068044,0.484539086
 InfoVis,2015,TimeSpan: Using Visualization to Explore Temporal Multi-dimensional Data of Stroke Patients,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467325,35,1.544068044,0.484539086
 InfoVis,2015,Automatic Selection of Partitioning Variables for Small Multiple Displays,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467323,36,1.556302501,0.488378342
 VAST,2015,The Data Context Map: Fusing Data and Attributes into a Unified Display,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467552,36,1.556302501,0.488378342
@@ -2394,7 +2394,7 @@ VAST,2015,Temporal MDS Plots for Analysis of Multivariate Data,0,4,3.08,journal 
 InfoVis,2015,Suggested Interactivity: Seeking Perceived Affordances for Information Visualization,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467201,43,1.633468456,0.512593545
 VAST,2015,egoSlider: Visual Analysis of Egocentric Network Evolution,0,6,4.62,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2468151,45,1.653212514,0.518789365
 InfoVis,2015,Visual Mementos: Reflecting Memories with Personal Data,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467831,45,1.653212514,0.518789365
-SciVis,2015,Rotation Invariant Vortices for Flow Visualization,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467200,49,1.69019608,3
+SciVis,2015,Rotation Invariant Vortices for Flow Visualization,HM,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467200,49,1.69019608,0.530395061
 SciVis,2015,Association Analysis for Visual Exploration of Multivariate Scientific Data Sets,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467431,50,1.698970004,0.533148378
 VAST,2015,DemographicVis: Analyzing demographic information based on user generated content,0,6,4.62,conference paper,http://dx.doi.org/10.1109/VAST.2015.7347631,50,1.698970004,0.533148378
 SciVis,2015,Glyph-Based Comparative Visualization for Diffusion Tensor Fields,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467435,52,1.716003344,0.538493556
@@ -2414,7 +2414,7 @@ SciVis,2015,Gaze Stripes: Image-Based Visualization of Eye Tracking Data,0,6,4.6
 InfoVis,2015,Acquired Codes of Meaning in Data Visualization and Infographics: Beyond Perceptual Primitives,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467321,80,1.903089987,0.597202621
 VAST,2015,Interactive Visual Discovering of Movement Patterns from Sparsely Sampled Geo-tagged Social Media Data,0,8,6.16,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467619,83,1.919078092,0.602219798
 InfoVis,2015,"Visualization, Selection, and Analysis of Traffic Flows",0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467112,87,1.939519253,0.608634373
-InfoVis,2015,Beyond Weber's Law: A Second Look at Ranking Visualizations of Correlation,HM,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467671,88,1.944482672,3
+InfoVis,2015,Beyond Weber's Law: A Second Look at Ranking Visualizations of Correlation,HM,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467671,88,1.944482672,0.610191928
 SciVis,2015,JiTTree: A Just-in-Time Compiled Sparse GPU Volume Data Structure,0,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467331,88,1.944482672,0.610191928
 InfoVis,2015,AmbiguityVis: Visualization of Ambiguity in Graph Layouts,0,7,5.39,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467691,90,1.954242509,0.613254632
 SciVis,2015,Isosurface Visualization of Data with Nonparametric Models for Uncertainty,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467958,97,1.986771734,0.623462525
@@ -2422,7 +2422,7 @@ InfoVis,2015,Visual Encodings of Temporal Uncertainty: A Comparative User Study,
 InfoVis,2015,Speculative Practices: Utilizing InfoVis to Explore Untapped Literary Collections,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467452,111,2.045322979,0.641836305
 InfoVis,2015,Reactive Vega: A Streaming Dataflow Architecture for Declarative Interactive Visualization,0,4,3.08,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467091,112,2.049218023,0.643058596
 VAST,2015,Supporting Iterative Cohort Construction with Visual Temporal Queries,0,3,2.31,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467622,117,2.068185862,0.649010833
-VAST,2015,VA2: A Visual Analytics Approach for Evaluating Visual Analytics Applications,HM,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467871,130,2.113943352,3
+VAST,2015,VA2: A Visual Analytics Approach for Evaluating Visual Analytics Applications,HM,5,3.85,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467871,130,2.113943352,0.663369846
 VAST,2015,The Visual Causality Analyst: An Interactive Interface for Causal Reasoning,0,2,1.54,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467931,132,2.120573931,0.665450567
 VAST,2015,Exploring Evolving Media Discourse Through Event Cueing,0,9,6.93,journal paper,http://dx.doi.org/10.1109/TVCG.2015.2467991,138,2.139879086,0.671508656
 VAST,2015,Comparative visual analysis of vector field ensembles,0,4,3.08,conference paper,http://dx.doi.org/10.1109/VAST.2015.7347634,145,2.161368002,0.678252025
